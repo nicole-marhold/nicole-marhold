@@ -1,9 +1,9 @@
 # 👋 Hey, ich bin Nicole — Entry-Level Pentester
 
 💀 Junior Pentester mit Fokus auf **Web Security**.  
-🕵️‍♂️ Bug Hunter (Beginner) · Coffee-powered
-🧪 Lerne täglich dazu, experimentiere gerne und dokumentiere meinen Fortschritt.  
+🧪 Lerne täglich dazu und dokumentiere meinen Fortschritt.  
 🔄 Try, fail, learn, repeat.  
+🕵️‍♂️ Bug Hunter (Beginner) · Coffee-powered
 
 ---
 
