@@ -1,7 +1,9 @@
 # 📘 GitHub Code-Style
 
+> Das .md-Format steht für Markdown.
+> Markdown ist eine einfache Auszeichnungssprache, mit der man Text so formatieren kann, dass er sowohl leicht lesbar ist als auch leicht in HTML umgewandelt werden kann.
+
 Diese Übersicht zeigt alle wichtigen Markdown‑Elemente, die im GitHub genutzt werden:
-Abstand, Tabellen, Listen, Code, Bilder, Links, Überschriften, Faltboxen und vieles mehr.
 
 ---
 
