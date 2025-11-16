@@ -3,7 +3,7 @@
 💀 Junior Pentester mit Fokus auf **Web Security**.  
 🧪 Lerne täglich dazu und dokumentiere meinen Fortschritt.  
 🔄 Try, fail, learn, repeat.  
-🕵️‍♂️ Bug Hunter (Beginner) · Coffee-powered
+🕵️‍♂️ Bug Hunter (Beginner) · Coffee-powered · White Hat
 
 ---
 
