@@ -136,3 +136,39 @@
 - Dokumentation der Schritte und Entscheidungen.  
 - Rücksprache mit erfahreneren Kolleg:innen.  
 - Schrittweise Analyse und Lernen aus dem Vorfall, um systematisch Handlungsempfehlungen ableiten zu können.  
+
+
+
+# Motivationsschreiben
+1. Sicherheitsmaßnahmen
+
+Das sind Tätigkeiten, die IT-Systeme schützen oder Schwachstellen vorbeugen:
+- Einrichtung und Konfiguration von Firewalls, EDR/XDR oder Antivirus-Systemen
+- Umsetzung von Patch- und Update-Management
+- Verwaltung von Benutzerrechten und Zugriffssteuerungen
+- Absicherung von Netzwerken (VPNs, Segmentierung, sichere Protokolle)
+- Durchführung von Vulnerability-Scans (z. B. Tenable Nessus)
+- Mitwirkung an Security Policies, Sicherheitsrichtlinien oder Compliance-Maßnahmen
+- Überprüfung von Backup- und Recovery-Konzepten
+- Mitarbeit an Awareness- oder Schulungsmaßnahmen für Nutzer
+
+2. Bedrohungsszenarien
+
+Hier geht es um das Erkennen, Analysieren und Bewerten potenzieller oder aktiver Bedrohungen:
+- Analyse von Sicherheitsvorfällen und Logs (SIEM / Splunk / FortiSIEM)
+- Erkennen von Malware, Phishing oder Ransomware-Angriffen
+- Bewertung von Schwachstellen in Systemen oder Anwendungen
+- Überwachung von Netzwerk- und Endpoint-Aktivitäten auf Auffälligkeiten
+- Mitarbeit an Risikoanalysen und Threat-Modelling
+- Klassifizierung und Priorisierung von Vorfällen nach Kritikalität
+
+3. Operative Abläufe
+
+Das sind die wiederkehrenden, strukturierten Prozesse, die einen reibungslosen Betrieb und Incident-Handling sichern:
+- Incident-Management: Aufnahme, Kategorisierung und Dokumentation von Sicherheitsvorfällen
+- Koordination zwischen IT-Teams, Fachbereichen und ggf. externen Partnern
+- Reporting an Vorgesetzte, Audits oder Compliance-Teams
+- Erstellung von Dokumentationen, Nachweisen und Handlungsempfehlungen
+- Durchführung von regelmäßigen Systemprüfungen und Kontrollen
+- Mitarbeit in Change-Management- oder Projektprozessen, z. B. CMDB-Einführung
+
