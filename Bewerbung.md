@@ -172,3 +172,40 @@ Das sind die wiederkehrenden, strukturierten Prozesse, die einen reibungslosen B
 - Durchführung von regelmäßigen Systemprüfungen und Kontrollen
 - Mitarbeit in Change-Management- oder Projektprozessen, z. B. CMDB-Einführung
 
+
+# Lebenslauf - persönliche Stärken
+Analytische und strukturierte Arbeitsweise
+
+Was es bedeutet: Sie können komplexe IT-Probleme in einzelne Schritte zerlegen, priorisieren und nachvollziehbar bearbeiten.
+
+Beispiele zum Erzählen:
+
+Incident Response:
+
+„Bei Security Incidents gehe ich immer strukturiert vor: zuerst erfasse ich alle relevanten Logs, dann priorisiere ich die kritischen Ereignisse, analysiere die Ursache Schritt für Schritt und dokumentiere alles nachvollziehbar. So kann ich den Vorfall klar rekonstruieren.“
+
+Vulnerability Management:
+
+„Wenn ich Schwachstellen scanne, analysiere ich die Ergebnisse systematisch nach Kritikalität, betroffene Systeme und mögliche Auswirkungen, bevor ich Handlungsempfehlungen ableite.“
+
+Projektarbeit / CMDB:
+
+„Während des CMDB-Projekts bei der OeKB habe ich die IT-Assets systematisch erfasst und nach Kategorien strukturiert, um die Übersichtlichkeit und Nachvollziehbarkeit sicherzustellen.“
+
+2. Präzises und sorgfältiges Arbeiten
+
+Was es bedeutet: Sie achten auf Details, vermeiden Fehler und arbeiten nachvollziehbar.
+
+Beispiele zum Erzählen:
+
+Log-Analyse:
+
+„Bei der Analyse von SIEM-Logs überprüfe ich jedes Detail, um keine Auffälligkeit zu übersehen. Auch kleine Hinweise können auf einen größeren Vorfall hinweisen, daher achte ich auf Genauigkeit und Vollständigkeit.“
+
+Dokumentation von Incidents:
+
+„Ich dokumentiere jeden Schritt bei Security Incidents sorgfältig – von der ersten Entdeckung bis zur Lösung. So kann jeder Schritt später nachvollzogen oder für Audits verwendet werden.“
+
+Vulnerability Reports:
+
+„Bei Berichten über Schwachstellen achte ich darauf, dass alle Informationen korrekt, vollständig und verständlich aufbereitet sind, damit Maßnahmen gezielt umgesetzt werden können.“
