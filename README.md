@@ -15,8 +15,8 @@
 - Web-Security Basics (XSS, SQLi, Auth-Bypass)
 - Recon & Enumeration  
 - Linux Basics  
-- Bash & Python (für einfache Scripts)  
-- CTF-Mindset entwickeln  
+- Digital Forensics Basics (File-Systeme, Artefakte, Zeitlinien)
+- Incident Response Grundlagen
 
 ### 🏆 TryHackMe Journey
 
