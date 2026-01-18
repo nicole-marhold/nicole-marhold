@@ -22,7 +22,7 @@
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nici.nici.png)
 - 🌱 Gestartet: 2025  
-- 🔍 Fokus: Web Security  
+- 🔍 Fokus: Web Security & Digital Forensik  
 - 🧪 Aktuell: Jr Penetration Tester Learning Path  
 - 🎯 Ziel: Ich will verstehen, wie Web-Apps brechen – und wie man sie schützt.
 
