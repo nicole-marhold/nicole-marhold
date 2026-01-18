@@ -1,8 +1,8 @@
 # 👋 Hey, ich bin Nicole — Entry-Level Pentester
 
-💀 Junior Pentester mit Fokus auf **Web Security**.  
-🧪 Lerne täglich dazu und dokumentiere meinen Fortschritt.  
-🔄 Try, fail, learn, repeat.  
+💀 Junior Pentester mit Fokus auf **Web Security**  
+🧪 Lerne täglich dazu und dokumentiere meinen Fortschritt  
+🔄 Try, fail, learn, repeat  
 🕵️‍♂️ Bug Hunter (Beginner) · Coffee-powered · White Hat
 
 ---
@@ -13,10 +13,10 @@
 
 ### 🔐 Aktuell lerne ich:
 - Web-Security Basics (XSS, SQLi, Auth-Bypass)
-- Recon & Enumeration  
-- Linux Basics  
 - Digital Forensics Basics (File-Systeme, Artefakte, Zeitlinien)
 - Incident Response Grundlagen
+- Recon & Enumeration  
+- Linux Basics  
 
 ### 🏆 TryHackMe Journey
 
