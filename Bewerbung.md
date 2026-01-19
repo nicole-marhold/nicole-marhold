@@ -173,39 +173,201 @@ Das sind die wiederkehrenden, strukturierten Prozesse, die einen reibungslosen B
 - Mitarbeit in Change-Management- oder Projektprozessen, z. B. CMDB-Einführung
 
 
-# Lebenslauf - persönliche Stärken
-Analytische und strukturierte Arbeitsweise
+# Lebenslauf – Persönliche Stärken
 
-Was es bedeutet: Sie können komplexe IT-Probleme in einzelne Schritte zerlegen, priorisieren und nachvollziehbar bearbeiten.
+## 1. Analytische und strukturierte Arbeitsweise
 
-Beispiele zum Erzählen:
+**Was es bedeutet:**  
+Komplexe IT-Probleme werden in einzelne, nachvollziehbare Schritte zerlegt, priorisiert und systematisch bearbeitet.
 
-Incident Response:
+### Beispiele zum Erzählen
 
-„Bei Security Incidents gehe ich immer strukturiert vor: zuerst erfasse ich alle relevanten Logs, dann priorisiere ich die kritischen Ereignisse, analysiere die Ursache Schritt für Schritt und dokumentiere alles nachvollziehbar. So kann ich den Vorfall klar rekonstruieren.“
+**Incident Response**  
+> „Bei Security Incidents gehe ich strukturiert vor: Zuerst erfasse ich alle relevanten Logs, priorisiere kritische Ereignisse, analysiere die Ursache Schritt für Schritt und dokumentiere alles nachvollziehbar. So lässt sich der Vorfall klar rekonstruieren.“
 
-Vulnerability Management:
+**Vulnerability Management**  
+> „Bei Schwachstellenscans analysiere ich die Ergebnisse systematisch nach Kritikalität, betroffenen Systemen und möglichen Auswirkungen, bevor ich konkrete Handlungsempfehlungen ableite.“
 
-„Wenn ich Schwachstellen scanne, analysiere ich die Ergebnisse systematisch nach Kritikalität, betroffene Systeme und mögliche Auswirkungen, bevor ich Handlungsempfehlungen ableite.“
+**Projektarbeit / CMDB**  
+> „Während des CMDB-Projekts bei der OeKB habe ich IT-Assets systematisch erfasst und kategorisiert, um Übersichtlichkeit und Nachvollziehbarkeit sicherzustellen.“
 
-Projektarbeit / CMDB:
+---
 
-„Während des CMDB-Projekts bei der OeKB habe ich die IT-Assets systematisch erfasst und nach Kategorien strukturiert, um die Übersichtlichkeit und Nachvollziehbarkeit sicherzustellen.“
+## 2. Präzises und sorgfältiges Arbeiten
 
-2. Präzises und sorgfältiges Arbeiten
+**Was es bedeutet:**  
+Hohe Aufmerksamkeit für Details, fehlerarmes Arbeiten und klare Nachvollziehbarkeit.
 
-Was es bedeutet: Sie achten auf Details, vermeiden Fehler und arbeiten nachvollziehbar.
+### Beispiele zum Erzählen
 
-Beispiele zum Erzählen:
+**Log-Analyse**  
+> „Bei der Analyse von SIEM-Logs achte ich bewusst auf Details, da auch kleine Auffälligkeiten auf größere Vorfälle hinweisen können.“
 
-Log-Analyse:
+**Incident-Dokumentation**  
+> „Ich dokumentiere jeden Schritt eines Security Incidents sorgfältig – von der ersten Erkennung bis zur Lösung –, sodass Abläufe jederzeit nachvollzogen oder für Audits genutzt werden können.“
 
-„Bei der Analyse von SIEM-Logs überprüfe ich jedes Detail, um keine Auffälligkeit zu übersehen. Auch kleine Hinweise können auf einen größeren Vorfall hinweisen, daher achte ich auf Genauigkeit und Vollständigkeit.“
+**Vulnerability Reports**  
+> „Bei Schwachstellenberichten lege ich Wert auf korrekte, vollständige und verständliche Darstellung, damit Maßnahmen gezielt umgesetzt werden können.“
 
-Dokumentation von Incidents:
+---
 
-„Ich dokumentiere jeden Schritt bei Security Incidents sorgfältig – von der ersten Entdeckung bis zur Lösung. So kann jeder Schritt später nachvollzogen oder für Audits verwendet werden.“
+# Typische Fragen im Bewerbungsgespräch bei der Polizei  
+## IT-Sicherheit & IT-Forensik
 
-Vulnerability Reports:
+### 1. Was bedeutet IT-Sicherheit aus polizeilicher Sicht für Sie?
 
-„Bei Berichten über Schwachstellen achte ich darauf, dass alle Informationen korrekt, vollständig und verständlich aufbereitet sind, damit Maßnahmen gezielt umgesetzt werden können.“
+**Antwort:**  
+> „IT-Sicherheit bedeutet aus polizeilicher Sicht vor allem, digitale Spuren zuverlässig zu sichern, Vorfälle nachvollziehbar zu analysieren und Erkenntnisse so aufzubereiten, dass sie für Ermittlungen und gegebenenfalls vor Gericht verwertbar sind.“
+
+---
+
+### 2. Wie würden Sie bei einem vermuteten Cybervorfall vorgehen?
+
+**Antwort (klassische Polizeilogik):**  
+> „Zuerst erfasse ich den Sachverhalt und stelle sicher, dass keine Veränderungen am System erfolgen. Danach sichere ich relevante Daten unter Beachtung der Beweiskette. Erst anschließend beginne ich mit der Analyse und dokumentiere die Ergebnisse nachvollziehbar.“
+
+**Merksatz:**  
+➡️ **Sichern → Dokumentieren → Analysieren**
+
+---
+
+### 3. Was ist Ihnen bei digitalen Beweisen besonders wichtig?
+
+**Antwort:**  
+> „Die Integrität der Beweise. Jeder Schritt muss nachvollziehbar sein, damit Herkunft, Verarbeitung und Aussagekraft jederzeit überprüft werden können.“
+
+---
+
+### 4. Unterschied Wirtschaft vs. Polizei?
+
+**Antwort:**  
+> „In der Wirtschaft steht oft die schnelle Wiederherstellung des Betriebs im Fokus. Bei der Polizei geht es stärker um Beweissicherung, rechtliche Verwertbarkeit und langfristige Nachvollziehbarkeit – genau dieser forensische Ansatz interessiert mich besonders.“
+
+---
+
+### 5. Umgang mit möglichen Beweismitteln?
+
+**Antwort:**  
+> „Ich vermeide Änderungen am System, dokumentiere den Zustand und arbeite ausschließlich mit dafür vorgesehenen Methoden, um die Beweiskette nicht zu gefährden.“
+
+---
+
+### 6. Rolle der Dokumentation?
+
+**Antwort:**  
+> „Dokumentation ist genauso wichtig wie die Analyse selbst. Ohne saubere Dokumentation verlieren auch technisch korrekte Ergebnisse an Wert.“
+
+---
+
+### 7. Umgang mit fehlender Erfahrung?
+
+**Antwort:**  
+> „Ich gehe offen damit um, arbeite mich strukturiert ein, halte mich an Standards und tausche mich mit erfahrenen Kolleginnen und Kollegen aus.“
+
+---
+
+### 8. Bedeutung von Teamarbeit?
+
+**Antwort:**  
+> „Ermittlungen sind Teamarbeit. Ergebnisse müssen so aufbereitet sein, dass sie auch für nicht-technische Stellen verständlich sind.“
+
+---
+
+### 9. Zeitdruck & sensible Fälle?
+
+**Antwort:**  
+> „Gerade unter Zeitdruck ist methodisches und ruhiges Vorgehen entscheidend, um Fehler zu vermeiden, die später nicht mehr korrigierbar sind.“
+
+---
+
+### 10. Warum Polizei statt Privatwirtschaft?
+
+**Antwort:**  
+> „Mich motiviert die unmittelbare gesellschaftliche Relevanz. Meine Arbeit trägt direkt zur Aufklärung von Straftaten bei.“
+
+---
+
+### 11. Was ist forensisches Arbeiten?
+
+**Antwort:**  
+> „Systematisches, objektives und reproduzierbares Vorgehen mit klarer Dokumentation.“
+
+---
+
+### 12. Verständliche Ergebnisse sicherstellen?
+
+**Antwort:**  
+> „Durch klare Struktur, Zusammenfassungen, Zeitachsen und die Trennung von Fakten und Bewertungen.“
+
+---
+
+# Unternehmenssicherheit – typische Fragen
+
+### 1. Wie machen Sie ein Unternehmen sicherer?
+
+**Antwort:**  
+> „Zuerst eine Bestandsaufnahme schützenswerter Systeme und Daten, dann risikobasierte Priorisierung. Darauf aufbauend kombiniere ich technische Maßnahmen, Prozesse und Awareness.“
+
+---
+
+### 2. Wichtige Sicherheitsmaßnahmen?
+
+**Antwort:**  
+> „Schwachstellenmanagement, klare Berechtigungskonzepte, regelmäßige Updates, Monitoring und definierte Prozesse.“
+
+---
+
+### 3. Woran erkennt man gute Sicherheit?
+
+**Antwort:**  
+> „An systematischem Risikomanagement, dokumentierten Prozessen und konsequenter Umsetzung von Findings.“
+
+---
+
+### 4. Rolle von Pentests?
+
+**Antwort:**  
+> „Pentests machen reale Schwachstellen sichtbar. Entscheidend ist die strukturierte Nachbearbeitung und Integration ins Schwachstellenmanagement.“
+
+---
+
+### 5. Umgang mit Schwachstellen?
+
+**Antwort:**  
+> „Bewertung, Priorisierung, Abstimmung mit Verantwortlichen und nachvollziehbare Nachverfolgung bis zur Behebung.“
+
+---
+
+### 6. Nicht alle Lücken sofort schließbar?
+
+**Antwort:**  
+> „Dann definiere ich Übergangsmaßnahmen und mache Risiken transparent und dokumentiert.“
+
+---
+
+### 7. Prozesse & Dokumentation?
+
+**Antwort:**  
+> „Essentiell – für Betrieb, Vorfälle und forensische Nachvollziehbarkeit.“
+
+---
+
+### 8. Security Awareness?
+
+**Antwort:**  
+> „Praxisnahe Schulungen und verständliche Regeln sind wirksamer als reine Verbote.“
+
+---
+
+### 9. Rolle von Monitoring?
+
+**Antwort:**  
+> „Monitoring hilft, Auffälligkeiten früh zu erkennen – wichtig ist eine klare Reaktion auf Warnungen.“
+
+---
+
+### 10. Größter Fehler in der IT-Sicherheit?
+
+**Antwort:**  
+> „Zu glauben, dass Tools allein Sicherheit schaffen. Sicherheit ist ein kontinuierlicher Prozess aus Technik, Organisation und Menschen.“
+
