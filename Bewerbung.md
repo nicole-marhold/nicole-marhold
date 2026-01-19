@@ -366,6 +366,112 @@ Hohe Aufmerksamkeit für Details, fehlerarmes Arbeiten und klare Nachvollziehbar
 
 ---
 
+# Vorstellungsgespräch – IT-Sicherheit & IT-Forensik
+
+## 1. Analytische und strukturierte Arbeitsweise
+**Was die Polizei hören will:**
+- Denken in Zusammenhängen
+- systematisches Vorgehen
+- kein „Trial & Error“
+
+**Gute Beispielaussage:**  
+> „Bei sicherheitsrelevanten Vorfällen gehe ich grundsätzlich strukturiert vor. Zuerst verschaffe ich mir einen Überblick über die verfügbaren Informationen, insbesondere Log- und Ereignisdaten. Anschließend grenze ich den Vorfall zeitlich und technisch ein, prüfe mögliche Ursachen und dokumentiere die einzelnen Analyse¬schritte nachvollziehbar. Dieses Vorgehen hat sich insbesondere bei der Bewertung von SIEM-Alerts bewährt.“
+
+**Warum das wirkt:**  
+Sie beschreiben eine Methode, nicht nur ein Ergebnis.
+
+---
+
+## 2. Hohe Detailorientierung und Genauigkeit
+**Was geprüft wird:**
+- Fehleranfälligkeit
+- Sorgfalt bei Analyse und Bewertung
+- forensische Eignung
+
+**Beispielaussage:**  
+> „Ich lege großen Wert darauf, auch scheinbar kleine Auffälligkeiten ernst zu nehmen. Gerade bei Log-Analysen habe ich mehrfach erlebt, dass Details wie Zeitstempel, Benutzerkontexte oder Abweichungen im Normalverhalten entscheidend waren. Deshalb überprüfe ich Informationen bewusst vollständig, bevor ich eine Bewertung abgebe.“
+
+**Forensik-Signal:**  
+Details → Zeitlinien → Kontexte
+
+---
+
+## 3. Ausgeprägtes Verantwortungsbewusstsein
+**Was hier wirklich gemeint ist:**
+- Verlässlichkeit
+- Sicherheitsdenken
+- Umgang mit kritischen Systemen
+
+**Beispielaussage:**  
+> „In meiner aktuellen Tätigkeit arbeite ich in einem sicherheitskritischen Umfeld. Mir ist bewusst, dass Fehlbewertungen oder unzureichende Maßnahmen reale Auswirkungen haben können. Deshalb treffe ich Entscheidungen nie isoliert, sondern dokumentiere sie und halte Rücksprache, wenn Sachverhalte unklar sind.“
+
+**Sehr wichtig für Behörden:**  
+Sie handeln besonnen, nicht impulsiv.
+
+---
+
+## 4. Sorgfältige und nachvollziehbare Dokumentation
+**Warum das extrem wichtig ist:**  
+Für Polizei und Forensik gilt:  
+> „Was nicht dokumentiert ist, existiert nicht.“
+
+**Beispielaussage:**  
+> „Ich dokumentiere Sicherheitsvorfälle so, dass sie auch für Dritte nachvollziehbar sind. Dazu gehören technische Details, Zeitpunkte, verwendete Datenquellen und getroffene Annahmen. Diese Vorgehensweise ist für mich selbstverständlich, da sie sowohl für spätere Analysen als auch für revisionssichere Nachvollziehbarkeit entscheidend ist.“
+
+**➡️ Forensische Kernkompetenz ohne das Wort „Forensik“ zu sagen.**
+
+---
+
+## 5. Diskretion im Umgang mit sensiblen Informationen
+**Was hier abgeprüft wird:**
+- Vertrauenswürdigkeit
+- Verschwiegenheit
+- Rollenverständnis
+
+**Beispielaussage:**  
+> „In meinen bisherigen Positionen hatte ich regelmäßig Zugriff auf sensible technische und organisatorische Informationen. Ich gehe damit sehr bewusst um, bespreche Inhalte ausschließlich im vorgesehenen Rahmen und halte mich strikt an interne Richtlinien. Diskretion ist für mich eine Grundvoraussetzung professioneller Sicherheitsarbeit.“
+
+**Sehr wichtiges Signal für Polizei & BMI.**
+
+---
+
+## 6. Hohe Lernbereitschaft
+**Was hier zählt:**
+- Selbststeuerung
+- Motivation
+- fachliche Entwicklung
+
+**Beispielaussage:**  
+> „Da sich Bedrohungsszenarien und Technologien laufend verändern, halte ich kontinuierliche Weiterbildung für essenziell. Ich beschäftige mich auch außerhalb meiner Kernaufgaben mit IT-Security- und forensischen Themen, um mein Verständnis zu vertiefen und meine Arbeitsweise kontinuierlich zu verbessern.“
+
+**➡️ Kein Buzzword, sondern sachlich begründet.**
+
+---
+
+## 7. Typische Fangfrage – und die richtige Reaktion
+**Frage:**  
+„Welche dieser Stärken ist für die IT-Forensik aus Ihrer Sicht am wichtigsten?“
+
+**Sehr gute Antwort:**  
+> „Aus meiner Sicht ist es die Kombination aus strukturierter Analyse und sorgfältiger Dokumentation. Nur wenn beides zusammenkommt, sind Ergebnisse nachvollziehbar und belastbar.“
+
+**➡️ Genau das will man hören.**
+
+---
+
+## Abschließender Tipp (sehr wichtig)
+- ruhig sprechen  
+- sachlich bleiben  
+- keine Übertreibungen  
+- lieber „ich arbeite so“ statt „ich bin“  
+
+Wenn Sie möchten, kann ich:  
+- ein Probe-Interview (typische Polizeifragen) mit Ihnen durchspielen oder  
+- Ihre Antworten auf eine konkrete Landespolizeidirektion zuschneiden.  
+
+Sagen Sie mir, wie intensiv Sie sich vorbereiten möchten.
+
+
 ### 10. Größter Fehler in der IT-Sicherheit?
 
 **Antwort:**  
