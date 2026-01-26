@@ -1,4 +1,4 @@
-### 🧠 TryHackMe (Forensik & DFIR)
+### 🧠 TryHackMe
 
 | Nr. | Phase | Raum | Schwerpunkt | Link |
 |----:|-------|------|-------------|------|
