@@ -1,31 +1,3 @@
-# Bewerbung - Bundeskriminalamt
-https://www.bundeskriminalamt.at/101/start.aspx
-- Kriminalprävention
-- Kriminalanalyse
-- Kooperation / Teamwork
-- Abteilung 5 Cybercrime-Competence-Center C4
-
-1. Bewerbungsunterlagen vorbereiten
-- Lebenslauf mit relevanten IT-Schwerpunkten
-- Zeugnisse, Zertifikate (z. B. Forensik, IT-Security)
-- ggf. Arbeitsproben/Projektbeschreibungen in Forensik oder Security
-
-2. Empfohlene Ansprechstelle für Initiativbewerbungen
-
-- 📍 Bundeskriminalamt (BK) – SPOC (Single Point of Contact)
-- Josef-Holaubek-Platz 1, 1090 Wien, Österreich
-- 📧 BMI-II-BK-SPOC@bmi.gv.at
-- 📞 +43-1-24836 / 985025-985027
-
-3. Wie du die Initiativbewerbung adressieren solltest - empfohlenes Format:
-```
-Betreff (E-Mail bzw. Brief): “Initiativbewerbung – IT-Forensik / Cybercrime / Digitale Ermittlungen”
-Anrede: „Sehr geehrte Damen und Herren der Personalabteilung des Bundeskriminalamts,“
-Empfänger: Bundeskriminalamt – SPOC / Personal & Karriere
-```
-
----
-
 # Vorstellungsgespräch IT-Polizei / IT-Forensik
 
 ## 1. Einstiegs- und Motivationsfragen
