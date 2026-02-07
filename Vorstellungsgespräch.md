@@ -477,3 +477,99 @@ Sagen Sie mir, wie intensiv Sie sich vorbereiten möchten.
 **Antwort:**  
 > „Zu glauben, dass Tools allein Sicherheit schaffen. Sicherheit ist ein kontinuierlicher Prozess aus Technik, Organisation und Menschen.“
 
+
+🧩 Realistisches Erstgespräch – LPD Burgenland (zivile IT-/Cybercrime-Funktion)
+1️⃣ Einstieg: „Erzählen Sie uns bitte kurz etwas über sich und Ihre Motivation.“
+
+Sehr gute Antwort:
+
+„Gerne. Ich komme aus dem IT-Security-Umfeld und arbeite derzeit als IT-Security Analyst mit Schwerpunkt Schwachstellenmanagement und der Koordination von Penetrationstests.
+Dabei habe ich gemerkt, dass mir besonders strukturierte Analyse, saubere Dokumentation und das Arbeiten mit sensiblen Informationen liegen.
+Das polizeiliche Umfeld interessiert mich, weil hier genau diese Arbeitsweise wichtig ist – insbesondere bei der Bearbeitung von IT-bezogenen Anzeigen und der Unterstützung des Kriminaldienstes.“
+
+➡️ Signal: ruhig, sachlich, keine Übertreibung.
+
+2️⃣ „Warum interessieren Sie sich für die Landespolizeidirektion Burgenland?“
+
+Sehr gute Antwort:
+
+„Die LPD Burgenland sehe ich als sehr passenden Einstieg in das polizeiliche Umfeld.
+Hier geht es weniger um hochspezialisierte Zentralstellen, sondern um praxisnahe Arbeit: Anzeigen mit IT-Bezug, Erstmaßnahmen und die strukturierte Unterstützung von Ermittlungen.
+Genau in diesem Umfeld kann ich meine bisherigen Fähigkeiten sinnvoll einbringen und gleichzeitig lernen.“
+
+➡️ Wichtig: Du sagst nicht „Ich will sofort Forensik machen“.
+
+3️⃣ „Was stellen Sie sich unter Cybercrime-Arbeit bei einer LPD konkret vor?“
+
+Sehr starke Antwort:
+
+„Ich gehe davon aus, dass es vor allem um die Bearbeitung von Anzeigen mit Internet- oder IT-Bezug geht – etwa Betrugsdelikte, Accountmissbrauch oder Datendelikte.
+Dazu zählen für mich die strukturierte Aufnahme von Sachverhalten, die Unterstützung bei Erstmaßnahmen sowie der sorgfältige Umgang mit digitalen Beweismitteln, bevor Fälle gegebenenfalls an spezialisierte Stellen weitergegeben werden.“
+
+➡️ Das entspricht exakt der Realität.
+
+4️⃣ „Sie sprechen von IT-Forensik – wissen Sie, dass wir hier keine BKA-Forensik machen?“
+
+⚠️ Fangfrage – deine Antwort ist entscheidend.
+
+Sehr gute Antwort:
+
+„Ja, das ist mir bewusst. Mir geht es nicht um hochspezialisierte forensische Laborarbeit, sondern um sauberes, regelkonformes Arbeiten im Alltag:
+also das korrekte Erfassen von Sachverhalten, das strukturierte Vorgehen bei Erstmaßnahmen und eine nachvollziehbare Dokumentation, damit Beweise verwertbar bleiben.“
+
+➡️ Damit bist du sofort „auf Linie“.
+
+5️⃣ „Sie haben keine Polizeischule – wie sehen Sie Ihre Rolle bei uns?“
+
+Perfekte Antwort:
+
+„Ich sehe mich klar in einer zivilen Unterstützungsfunktion.
+Mein Beitrag liegt in der technischen Analyse, der strukturierten Aufbereitung von Informationen und der Unterstützung des Kriminaldienstes – nicht im exekutiven Bereich.
+Mir ist wichtig, Aufgaben sauber vorzubereiten und nachvollziehbar zu dokumentieren.“
+
+➡️ Damit bist du 100 % richtig positioniert.
+
+6️⃣ „Wie gehen Sie mit sensiblen Daten um?“
+
+Sehr gute Antwort:
+
+„Ich arbeite seit längerer Zeit mit sicherheitsrelevanten Informationen und gehe damit sehr bewusst um.
+Zugriff, Weitergabe und Dokumentation erfolgen für mich immer nach klaren Regeln.
+Diskretion und Verlässlichkeit sehe ich als Grundvoraussetzung – gerade im polizeilichen Umfeld.“
+
+7️⃣ „Was machen Sie, wenn Sie fachlich noch nicht alles wissen?“
+
+Sehr wichtig für die LPD:
+
+„Ich gehe offen damit um.
+Ich arbeite mich strukturiert in neue Themen ein, nutze vorhandene Richtlinien und spreche Unklarheiten frühzeitig an.
+Mir ist es wichtiger, korrekt zu arbeiten, als vorschnelle Annahmen zu treffen.“
+
+➡️ Das ist Behörden-Gold.
+
+8️⃣ „Wo sehen Sie sich in ein paar Jahren?“
+
+Sehr gute Antwort:
+
+„Kurzfristig möchte ich praktische Erfahrung im polizeilichen Umfeld sammeln und mich fachlich weiterentwickeln.
+Langfristig kann ich mir vorstellen, mich stärker in Richtung Cybercrime und IT-bezogene Ermittlungsunterstützung zu spezialisieren – immer im Rahmen der jeweiligen Organisation.“
+
+➡️ Loyal, realistisch, nicht abgehoben.
+
+9️⃣ Abschlussfrage: „Haben Sie noch Fragen an uns?“
+
+Sehr gute Rückfragen von dir:
+
+„Wie ist die Zusammenarbeit zwischen Kriminaldienst und IT-Unterstützung organisiert?“
+
+„Welche Aufgaben fallen typischerweise bei IT-bezogenen Anzeigen an?“
+
+„Wie erfolgt die Einarbeitung in interne Abläufe?“
+
+❌ Nicht fragen:
+
+Homeoffice
+
+Gehalt
+
+BKA-Wechsel
