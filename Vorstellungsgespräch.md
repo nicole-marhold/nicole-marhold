@@ -4,12 +4,10 @@
 
 ### Warum möchten Sie zur Polizei wechseln?
 **Erwartung:** Werte, Sinn, Verantwortung.  
-**Beispiel:**  
 > Mich motiviert besonders, dass technische Arbeit bei der Polizei unmittelbar zur Aufklärung von Straftaten beiträgt. Ich möchte meine IT-Security-Kenntnisse in einem Umfeld einsetzen, in dem Genauigkeit, Beweissicherheit und Verantwortung im Mittelpunkt stehen.
 
 ### Warum IT-Forensik und nicht klassische IT-Security?
 **Erwartung:** Bewusste Spezialisierung, realistische Selbsteinschätzung.  
-**Beispiel:**  
 > In meiner bisherigen Tätigkeit habe ich gemerkt, dass mir die detaillierte Analyse von Vorfällen, das strukturierte Vorgehen und die nachvollziehbare Dokumentation besonders liegen. IT-Forensik verbindet genau diese Aspekte, weshalb ich mich gezielt in diesem Bereich weiterentwickeln möchte.
 
 ---
