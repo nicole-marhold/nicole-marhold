@@ -571,3 +571,31 @@ Homeoffice
 Gehalt
 
 BKA-Wechsel
+
+
+# Thinking Questions
+
+### Erzähle von einem technischen Problem, das du gelöst hast  
+(Sie wollen sehen, wie du denkst)  
+- Beschreibe das Problem, deinen Ansatz und was du daraus gelernt hast (Labs, CTFs oder Projekte).  
+
+### Wie würdest du einen verdächtigen Login untersuchen?  
+(Testet dein Sicherheitsdenken)  
+- Erwähne Dinge wie Logs, IP-Adressen, ungewöhnliche Aktivitäten und wie du den Benutzer verifizierst.  
+
+### Wie würdest du auf einen Sicherheitsvorfall reagieren?  
+(Zeigt, ob du Investigation und Priorisierung verstehst)  
+- Überprüfe den Alarm, schaue in die Logs, analysiere Aktivitäten und bestätige das betroffene Konto, bevor du eskalierst.  
+
+### Wie bleibst du in der Cybersecurity auf dem Laufenden?  
+(Sie testen Neugier und kontinuierliches Lernen)  
+- Erwähne Labs, Blogs, Threat News, Podcasts oder Sicherheitsforschung, der du folgst.  
+
+### Was passiert, wenn du eine Website in den Browser eingibst?  
+(Testet grundlegendes Netzwerkverständnis)  
+- Erkläre DNS, die Verbindung und die Antwort des Servers.  
+
+### Was ist der Unterschied zwischen einer Schwachstelle und einer Bedrohung?  
+(Testet grundlegendes Sicherheitswissen)  
+- Eine Schwachstelle ist eine Sicherheitslücke.  
+- Eine Bedrohung ist etwas, das diese Schwachstelle ausnutzen kann.
