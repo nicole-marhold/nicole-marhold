@@ -1,4 +1,4 @@
-# Vorstellungsgespräch am 11.05.
+## Vorstellungsgespräch am 11.05.
 
 ```
 Bundeskriminalamt (BKA)
@@ -6,11 +6,176 @@ Cybercrime-Competence-Centers (C4)
 Büro 5.5 - Digitales Beweismittelmanagement
 ```
 
-## 1. Einstiegs- und Motivationsfragen
+## BKA - Digitales Beiweismittelmanagement
+Das `BKA` ist die zentrale deutsche Ermittlungsbehörde für:
+- schwere und organisierte Kriminalität
+- Terrorismusbekämpfung
+- internationale Polizeikooperation (z. B. mit Interpol/Europol)
+- zentrale kriminaltechnische Auswertung und IT-Forensik
 
-### Warum möchten Sie zur Polizei wechseln?
-**Erwartung:** Werte, Sinn, Verantwortung.  
+Typische Aufgaben von `Digitale Beiweismittelmanagement` in so einem Bereich sind:
+- Sicherung digitaler Beweismittel (Handys, PCs, Server, Cloud-Daten)
+- forensische Auswertung von Daten (Chats, Metadaten, Dateien, Logs)
+- Beweisketten-Sicherung („Chain of Custody“ – rechtssichere Dokumentation)
+- Aufbereitung von digitalen Beweisen für Gerichte
+- Umgang mit großen Datenmengen in Ermittlungsverfahren
+- teilweise Entwicklung oder Nutzung forensischer Softwaretools
+
+```
+Es geht darum, digitale Spuren so zu sichern und aufzubereiten, dass sie gerichtsfest verwendbar sind.
+```
+
+Die `Meldestelle des Cybercrime-Competence-Centers (C4)` des Bundeskriminalamts fungiert seit September 2013 als nationale und internationale Ansprechstelle für Cybercrime-Anfragen. Seit Jahren wird ein kontinuierlicher Anstieg der Zahl der Anfragen verzeichnet. https://www.bmi.gv.at/magazin/2023_09_10/04_Meldestelle_C4.aspx
+
+
+## Motivation & Interesse
+
+Erzählen Sie uns bitte kurz etwas über sich und Ihre Motivation.
+> Ich komme aus dem IT-Security-Umfeld und arbeite aktuell als IT-Security Analyst mit Schwerpunkt Schwachstellenmanagement und Koordination von Penetrationstests. Dabei habe ich festgestellt, dass mir strukturierte Analyse, saubere Dokumentation und der Umgang mit sensiblen Informationen besonders liegen. Genau diese Arbeitsweise ist auch im polizeilichen Umfeld entscheidend, weshalb mich die Rolle sehr anspricht.
+
+Warum möchten Sie zum BKA?
+> Mich interessiert besonders, dass technische Arbeit hier direkt in echte Ermittlungen und rechtssichere Ergebnisse einfließt. Es geht nicht nur um Technik, sondern darum, dass Ergebnisse später auch vor Gericht Bestand haben müssen. Diese Kombination aus Genauigkeit und Verantwortung finde ich sehr spannend.
+
 > Mich motiviert besonders, dass technische Arbeit bei der Polizei unmittelbar zur Aufklärung von Straftaten beiträgt. Ich möchte meine IT-Security-Kenntnisse in einem Umfeld einsetzen, in dem Genauigkeit, Beweissicherheit und Verantwortung im Mittelpunkt stehen.
+
+> Mich motiviert die unmittelbare gesellschaftliche Relevanz. Meine Arbeit trägt direkt zur Aufklärung von Straftaten bei.
+
+Warum IT-Forensik statt klassische IT-Security?
+> In meiner bisherigen Tätigkeit habe ich gemerkt, dass mir detaillierte Analyse, strukturiertes Vorgehen und nachvollziehbare Dokumentation besonders liegen. IT-Forensik vereint genau diese Aspekte, weshalb ich mich gezielt in diese Richtung weiterentwickeln möchte.
+
+Warum interessiert Sie gerade der Bereich digitales Beweismittelmanagement?
+> Darunter verstehe ich die strukturierte Sicherung, Verwaltung und Auswertung digitaler Daten, sodass diese im Ermittlungsverfahren nachvollziehbar und gerichtsfest genutzt werden können. Dazu gehört aus meiner Sicht besonders, dass alle Schritte dokumentiert und manipulationssicher durchgeführt werden.
+
+> Mich reizt besonders die strukturierte und nachvollziehbare Arbeit mit digitalen Daten, bei der jeder Schritt dokumentiert und gerichtsfest sein muss. Diese Kombination aus technischer Analyse und rechtlicher Relevanz entspricht genau meinen Stärken.
+
+Was wissen Sie über die Aufgaben dieses Bereichs?
+> ...
+
+Was reizt Sie an der Arbeit mit digitalen Beweismitteln?
+> ...
+
+
+## Fachliches Fundament
+
+Was ist IT-Forensik?
+> Sicherung, Analyse und Auswertung digitaler Spuren
+> Ziel: objektive, reproduzierbare Ergebnisse
+
+Typische Datenquellen
+- PCs / Laptops
+- Smartphones
+- Server
+- Cloud-Dienste
+- Messenger / E-Mail
+- Logs / Netzwerkdaten
+
+Datenintegrität (wichtig!)
+- Sicherstellung, dass Daten unverändert sind
+- z. B. Hash-Werte (SHA-256)
+- Vergleich vor/nach Analyse
+
+Unterschied Polizei vs. Privatwirtschaft
+> In der Wirtschaft steht oft die schnelle Wiederherstellung im Fokus. Bei der Polizei geht es primär um Beweissicherung, Nachvollziehbarkeit und rechtliche Verwertbarkeit.
+
+
+## Standardprozesse
+
+Vorgehen bei Vorfällen (polizeiliche Logik)
+
+Merkschema: `Sichern → Dokumentieren → Analysieren`
+
+Strukturierte Antwort:
+- Sachverhalt erfassen
+- Systeme sichern (keine Veränderung)
+- Daten sichern (Logs, Artefakte)
+- Dokumentation aller Schritte
+- Analyse
+- Weitergabe an zuständige Stellen
+- Beweissicherheit sicherstellen
+- Originaldaten unverändert lassen
+- Arbeiten auf Kopien
+- Zeitstempel & Protokollierung
+- klare Prozesse einhalten
+
+Wie gehen Sie mit sehr großen Datenmengen um?
+> Ich würde sehr strukturiert vorgehen, also zuerst die Daten systematisch kategorisieren und dann Schritt für Schritt nach relevanten Informationen filtern. Mir ist wichtig, dabei sauber zu dokumentieren, wie ich vorgehe, damit die Ergebnisse nachvollziehbar bleiben.
+
+
+## Persönliche Arbeitsweise
+
+
+
+Arbeiten Sie lieber im Team oder selbstständig?
+> „Ermittlungen sind Teamarbeit. Ergebnisse müssen so aufbereitet sein, dass sie auch für nicht-technische Stellen verständlich sind.
+
+Wie gehen Sie mit Fehlern oder Unsicherheiten um?
+> Wenn ich unsicher bin oder ein Problem nicht sofort lösen kann, gehe ich das strukturiert an: erst analysieren, was genau unklar ist, dann gezielt Informationen einholen oder Rücksprache halten. Wichtig ist mir dabei, keine vorschnellen Annahmen zu treffen, sondern sorgfältig zu arbeiten.
+> In sicherheitskritischen Situationen halte ich es für essenziell, Unsicherheiten offen zu kommunizieren, Rücksprache zu halten und Entscheidungen nachvollziehbar abzusichern.
+
+> Ich gehe offen damit um, arbeite mich strukturiert ein, halte mich an Standards und tausche mich mit erfahrenen Kolleginnen und Kollegen aus.
+
+> Ich gehe offen damit um. Ich arbeite mich strukturiert in neue Themen ein, nutze vorhandene Richtlinien und spreche Unklarheiten frühzeitig an. Mir ist es wichtiger, korrekt zu arbeiten, als vorschnelle Annahmen zu treffen.“
+
+Wie gehen Sie vor, wenn Sie etwas Technisches nicht sofort lösen können?
+> ...
+
+Wichtig im Bereich: Sorgfalt, Systematik, Stressresistenz, Genauigkeit
+
+## Analytisches Denken
+
+Beschreiben Sie, wie Sie ein komplexes Problem strukturiert lösen würden.
+> ...
+
+Haben Sie Erfahrung mit Datenanalyse / IT / technischen Tools?
+> ...
+
+Wie würden Sie vorgehen, um in großen Datenmengen relevante Informationen zu finden?
+Belastbarkeit & Verantwortung
+Wie gehen Sie mit sensiblen oder belastenden Inhalten um?
+Wie stellen Sie sicher, dass Sie sorgfältig und fehlerfrei arbeiten?
+Wie reagieren Sie unter Zeitdruck?
+2) Wie du dich konkret auf diesen Bereich vorbereiten kannst
+A) Verstehen, worum es wirklich geht
+
+Du solltest klar im Kopf haben:
+
+Digitale Beweise sind gerichtlich relevante Daten
+Alles muss nachvollziehbar und manipulationssicher dokumentiert sein
+Fehler können rechtliche Folgen haben (Beweiswert!)
+
+👉 Wichtiges Grundprinzip:
+„Wenn es nicht sauber dokumentiert ist, ist es im Zweifel nicht verwertbar.“
+
+B) Fachliche Basics (kein Expertenwissen nötig, aber Verständnis hilft)
+
+Es reicht oft, wenn du grob verstehst:
+
+Was ist digitale Forensik?
+Was sind typische Datenquellen? (Handy, Laptop, Cloud, Messenger)
+Was bedeutet Datenintegrität / Hash-Werte (z. B. SHA-256 grob kennen)
+Warum Beweissicherung streng geregelt ist
+C) Was du unbedingt rüberbringen solltest
+
+Im Gespräch kommt es besonders gut an, wenn du zeigst:
+
+Sorgfalt statt Schnelligkeit
+strukturiertes Denken
+Interesse an Technik + Rechtssicherheit
+Zuverlässigkeit und Verantwortungsbewusstsein
+keine „Hacker-Romantik“, sondern professionelle IT-Arbeit
+D) Typische „Stolperfalle“
+
+Viele Bewerber denken, es geht um „Hacking“ oder Cybercrime-Action.
+
+➡️ In Wahrheit ist es oft:
+
+Daten sortieren
+Spuren sichern
+Dokumentieren
+Auswerten nach klaren Regeln
+Zusammenarbeit mit Ermittlern und Staatsanwaltschaft
+
+## 1. Einstiegs- und Motivationsfragen
 
 ### Warum IT-Forensik und nicht klassische IT-Security?
 **Erwartung:** Bewusste Spezialisierung, realistische Selbsteinschätzung.  
@@ -35,9 +200,6 @@ Büro 5.5 - Digitales Beweismittelmanagement
 **Beispielantwort:**  
 > Zunächst würde ich den Vorfall einordnen und sicherstellen, dass keine weiteren Schäden entstehen. Anschließend sichere ich relevante Informationen wie Logs oder Systemzustände, ohne diese zu verändern. Alle Schritte dokumentiere ich nachvollziehbar. Danach erfolgt eine erste Analyse der Daten und eine strukturierte Weitergabe der Ergebnisse an die zuständige Stelle.
 
-### Welche Tools würden Sie verwenden?
-**Antwort:**  
-> Ich arbeite aktuell mit SIEM-Systemen wie Splunk und Endpoint-Security-Lösungen. Für den forensischen Bereich kenne ich gängige Werkzeuge konzeptionell und sehe diesen Bereich bewusst als Lern- und Entwicklungsschwerpunkt.
 
 ### Wie stellen Sie Beweissicherheit sicher?
 **Antwort:**  
@@ -49,7 +211,7 @@ Büro 5.5 - Digitales Beweismittelmanagement
 
 ### Was tun Sie, wenn Sie unsicher sind?
 **Antwort:**  
-> In sicherheitskritischen Situationen halte ich es für essenziell, Unsicherheiten offen zu kommunizieren, Rücksprache zu halten und Entscheidungen nachvollziehbar abzusichern.
+> 
 
 ### Wie gehen Sie mit sensiblen Daten um?
 **Antwort:**  
@@ -73,19 +235,6 @@ Büro 5.5 - Digitales Beweismittelmanagement
 **Antworten:**  
 > Ich arbeite auch über längere Zeit konzentriert und strukturiert, insbesondere bei Tätigkeiten, die Nachvollziehbarkeit erfordern. Fehler analysiere ich sachlich, dokumentiere sie transparent und leite Maßnahmen ab, um Wiederholungen zu vermeiden.
 
----
-
-## 5. Fragen, die Sie stellen können
-
-- Wie ist die fachliche Einschulung im Bereich IT-Forensik aufgebaut?  
-- Wie arbeiten IT-Forensik und Ermittler im Alltag zusammen?  
-- Welche Weiterbildungsformate werden angeboten?
-
----
-
-## 6. Grundregel
-
-> **Nicht zeigen, was Sie alles wissen – sondern wie Sie denken, handeln und Verantwortung übernehmen.**
 
 ## 7. Analyse und Tools bei einem Sicherheitsvorfall
 
@@ -184,6 +333,9 @@ Das sind die wiederkehrenden, strukturierten Prozesse, die einen reibungslosen B
 **Was es bedeutet:**  
 Komplexe IT-Probleme werden in einzelne, nachvollziehbare Schritte zerlegt, priorisiert und systematisch bearbeitet.
 
+> „Bei sicherheitsrelevanten Vorfällen gehe ich grundsätzlich strukturiert vor. Zuerst verschaffe ich mir einen Überblick über die verfügbaren Informationen, insbesondere Log- und Ereignisdaten. Anschließend grenze ich den Vorfall zeitlich und technisch ein, prüfe mögliche Ursachen und dokumentiere die einzelnen Analyse¬schritte nachvollziehbar. Dieses Vorgehen hat sich insbesondere bei der Bewertung von SIEM-Alerts bewährt.“
+ `Sie beschreiben eine Methode, nicht nur ein Ergebnis.`
+
 ### Beispiele zum Erzählen
 
 **Incident Response**  
@@ -219,11 +371,7 @@ Hohe Aufmerksamkeit für Details, fehlerarmes Arbeiten und klare Nachvollziehbar
 ## IT-Sicherheit & IT-Forensik
 
 ### 1. Was bedeutet IT-Sicherheit aus polizeilicher Sicht für Sie?
-
-**Antwort:**  
 > „IT-Sicherheit bedeutet aus polizeilicher Sicht vor allem, digitale Spuren zuverlässig zu sichern, Vorfälle nachvollziehbar zu analysieren und Erkenntnisse so aufzubereiten, dass sie für Ermittlungen und gegebenenfalls vor Gericht verwertbar sind.“
-
----
 
 ### 2. Wie würden Sie bei einem vermuteten Cybervorfall vorgehen?
 
@@ -231,174 +379,83 @@ Hohe Aufmerksamkeit für Details, fehlerarmes Arbeiten und klare Nachvollziehbar
 > „Zuerst erfasse ich den Sachverhalt und stelle sicher, dass keine Veränderungen am System erfolgen. Danach sichere ich relevante Daten unter Beachtung der Beweiskette. Erst anschließend beginne ich mit der Analyse und dokumentiere die Ergebnisse nachvollziehbar.“
 
 **Merksatz:**  
-➡️ **Sichern → Dokumentieren → Analysieren**
+**Sichern → Dokumentieren → Analysieren**
 
----
 
 ### 3. Was ist Ihnen bei digitalen Beweisen besonders wichtig?
 
-**Antwort:**  
 > „Die Integrität der Beweise. Jeder Schritt muss nachvollziehbar sein, damit Herkunft, Verarbeitung und Aussagekraft jederzeit überprüft werden können.“
 
----
 
 ### 4. Unterschied Wirtschaft vs. Polizei?
-
-**Antwort:**  
 > „In der Wirtschaft steht oft die schnelle Wiederherstellung des Betriebs im Fokus. Bei der Polizei geht es stärker um Beweissicherung, rechtliche Verwertbarkeit und langfristige Nachvollziehbarkeit – genau dieser forensische Ansatz interessiert mich besonders.“
 
----
 
 ### 5. Umgang mit möglichen Beweismitteln?
-
-**Antwort:**  
 > „Ich vermeide Änderungen am System, dokumentiere den Zustand und arbeite ausschließlich mit dafür vorgesehenen Methoden, um die Beweiskette nicht zu gefährden.“
 
----
-
 ### 6. Rolle der Dokumentation?
-
-**Antwort:**  
 > „Dokumentation ist genauso wichtig wie die Analyse selbst. Ohne saubere Dokumentation verlieren auch technisch korrekte Ergebnisse an Wert.“
 
----
-
-### 7. Umgang mit fehlender Erfahrung?
-
-**Antwort:**  
-> „Ich gehe offen damit um, arbeite mich strukturiert ein, halte mich an Standards und tausche mich mit erfahrenen Kolleginnen und Kollegen aus.“
-
----
-
-### 8. Bedeutung von Teamarbeit?
-
-**Antwort:**  
-> „Ermittlungen sind Teamarbeit. Ergebnisse müssen so aufbereitet sein, dass sie auch für nicht-technische Stellen verständlich sind.“
-
----
 
 ### 9. Zeitdruck & sensible Fälle?
-
-**Antwort:**  
 > „Gerade unter Zeitdruck ist methodisches und ruhiges Vorgehen entscheidend, um Fehler zu vermeiden, die später nicht mehr korrigierbar sind.“
 
----
-
-### 10. Warum Polizei statt Privatwirtschaft?
-
-**Antwort:**  
-> „Mich motiviert die unmittelbare gesellschaftliche Relevanz. Meine Arbeit trägt direkt zur Aufklärung von Straftaten bei.“
-
----
-
-### 11. Was ist forensisches Arbeiten?
-
-**Antwort:**  
+### 11. Was ist forensisches Arbeiten? 
 > „Systematisches, objektives und reproduzierbares Vorgehen mit klarer Dokumentation.“
 
----
 
 ### 12. Verständliche Ergebnisse sicherstellen?
-
-**Antwort:**  
 > „Durch klare Struktur, Zusammenfassungen, Zeitachsen und die Trennung von Fakten und Bewertungen.“
 
----
-
-# Unternehmenssicherheit – typische Fragen
 
 ### 1. Wie machen Sie ein Unternehmen sicherer?
 
-**Antwort:**  
 > „Zuerst eine Bestandsaufnahme schützenswerter Systeme und Daten, dann risikobasierte Priorisierung. Darauf aufbauend kombiniere ich technische Maßnahmen, Prozesse und Awareness.“
-
----
 
 ### 2. Wichtige Sicherheitsmaßnahmen?
 
-**Antwort:**  
 > „Schwachstellenmanagement, klare Berechtigungskonzepte, regelmäßige Updates, Monitoring und definierte Prozesse.“
-
----
 
 ### 3. Woran erkennt man gute Sicherheit?
 
-**Antwort:**  
 > „An systematischem Risikomanagement, dokumentierten Prozessen und konsequenter Umsetzung von Findings.“
-
----
 
 ### 4. Rolle von Pentests?
 
-**Antwort:**  
 > „Pentests machen reale Schwachstellen sichtbar. Entscheidend ist die strukturierte Nachbearbeitung und Integration ins Schwachstellenmanagement.“
 
----
-
 ### 5. Umgang mit Schwachstellen?
-
-**Antwort:**  
+ 
 > „Bewertung, Priorisierung, Abstimmung mit Verantwortlichen und nachvollziehbare Nachverfolgung bis zur Behebung.“
-
----
 
 ### 6. Nicht alle Lücken sofort schließbar?
 
-**Antwort:**  
 > „Dann definiere ich Übergangsmaßnahmen und mache Risiken transparent und dokumentiert.“
 
----
-
 ### 7. Prozesse & Dokumentation?
-
-**Antwort:**  
+ 
 > „Essentiell – für Betrieb, Vorfälle und forensische Nachvollziehbarkeit.“
-
----
 
 ### 8. Security Awareness?
 
-**Antwort:**  
 > „Praxisnahe Schulungen und verständliche Regeln sind wirksamer als reine Verbote.“
-
----
 
 ### 9. Rolle von Monitoring?
 
-**Antwort:**  
 > „Monitoring hilft, Auffälligkeiten früh zu erkennen – wichtig ist eine klare Reaktion auf Warnungen.“
 
----
 
-# Vorstellungsgespräch – IT-Sicherheit & IT-Forensik
 
-## 1. Analytische und strukturierte Arbeitsweise
-**Was die Polizei hören will:**
-- Denken in Zusammenhängen
-- systematisches Vorgehen
-- kein „Trial & Error“
-
-**Gute Beispielaussage:**  
-> „Bei sicherheitsrelevanten Vorfällen gehe ich grundsätzlich strukturiert vor. Zuerst verschaffe ich mir einen Überblick über die verfügbaren Informationen, insbesondere Log- und Ereignisdaten. Anschließend grenze ich den Vorfall zeitlich und technisch ein, prüfe mögliche Ursachen und dokumentiere die einzelnen Analyse¬schritte nachvollziehbar. Dieses Vorgehen hat sich insbesondere bei der Bewertung von SIEM-Alerts bewährt.“
-
-**Warum das wirkt:**  
-Sie beschreiben eine Methode, nicht nur ein Ergebnis.
-
----
 
 ## 2. Hohe Detailorientierung und Genauigkeit
 **Was geprüft wird:**
 - Fehleranfälligkeit
 - Sorgfalt bei Analyse und Bewertung
 - forensische Eignung
-
-**Beispielaussage:**  
+ 
 > „Ich lege großen Wert darauf, auch scheinbar kleine Auffälligkeiten ernst zu nehmen. Gerade bei Log-Analysen habe ich mehrfach erlebt, dass Details wie Zeitstempel, Benutzerkontexte oder Abweichungen im Normalverhalten entscheidend waren. Deshalb überprüfe ich Informationen bewusst vollständig, bevor ich eine Bewertung abgebe.“
 
-**Forensik-Signal:**  
-Details → Zeitlinien → Kontexte
-
----
 
 ## 3. Ausgeprägtes Verantwortungsbewusstsein
 **Was hier wirklich gemeint ist:**
@@ -406,25 +463,18 @@ Details → Zeitlinien → Kontexte
 - Sicherheitsdenken
 - Umgang mit kritischen Systemen
 
-**Beispielaussage:**  
 > „In meiner aktuellen Tätigkeit arbeite ich in einem sicherheitskritischen Umfeld. Mir ist bewusst, dass Fehlbewertungen oder unzureichende Maßnahmen reale Auswirkungen haben können. Deshalb treffe ich Entscheidungen nie isoliert, sondern dokumentiere sie und halte Rücksprache, wenn Sachverhalte unklar sind.“
 
-**Sehr wichtig für Behörden:**  
-Sie handeln besonnen, nicht impulsiv.
 
----
 
 ## 4. Sorgfältige und nachvollziehbare Dokumentation
 **Warum das extrem wichtig ist:**  
 Für Polizei und Forensik gilt:  
 > „Was nicht dokumentiert ist, existiert nicht.“
 
-**Beispielaussage:**  
 > „Ich dokumentiere Sicherheitsvorfälle so, dass sie auch für Dritte nachvollziehbar sind. Dazu gehören technische Details, Zeitpunkte, verwendete Datenquellen und getroffene Annahmen. Diese Vorgehensweise ist für mich selbstverständlich, da sie sowohl für spätere Analysen als auch für revisionssichere Nachvollziehbarkeit entscheidend ist.“
 
-**➡️ Forensische Kernkompetenz ohne das Wort „Forensik“ zu sagen.**
 
----
 
 ## 5. Diskretion im Umgang mit sensiblen Informationen
 **Was hier abgeprüft wird:**
@@ -432,12 +482,9 @@ Für Polizei und Forensik gilt:
 - Verschwiegenheit
 - Rollenverständnis
 
-**Beispielaussage:**  
 > „In meinen bisherigen Positionen hatte ich regelmäßig Zugriff auf sensible technische und organisatorische Informationen. Ich gehe damit sehr bewusst um, bespreche Inhalte ausschließlich im vorgesehenen Rahmen und halte mich strikt an interne Richtlinien. Diskretion ist für mich eine Grundvoraussetzung professioneller Sicherheitsarbeit.“
 
-**Sehr wichtiges Signal für Polizei & BMI.**
 
----
 
 ## 6. Hohe Lernbereitschaft
 **Was hier zählt:**
@@ -445,138 +492,49 @@ Für Polizei und Forensik gilt:
 - Motivation
 - fachliche Entwicklung
 
-**Beispielaussage:**  
 > „Da sich Bedrohungsszenarien und Technologien laufend verändern, halte ich kontinuierliche Weiterbildung für essenziell. Ich beschäftige mich auch außerhalb meiner Kernaufgaben mit IT-Security- und forensischen Themen, um mein Verständnis zu vertiefen und meine Arbeitsweise kontinuierlich zu verbessern.“
 
-**➡️ Kein Buzzword, sondern sachlich begründet.**
-
----
 
 ## 7. Typische Fangfrage – und die richtige Reaktion
-**Frage:**  
 „Welche dieser Stärken ist für die IT-Forensik aus Ihrer Sicht am wichtigsten?“
 
-**Sehr gute Antwort:**  
 > „Aus meiner Sicht ist es die Kombination aus strukturierter Analyse und sorgfältiger Dokumentation. Nur wenn beides zusammenkommt, sind Ergebnisse nachvollziehbar und belastbar.“
 
-**➡️ Genau das will man hören.**
-
----
-
-## Abschließender Tipp (sehr wichtig)
-- ruhig sprechen  
-- sachlich bleiben  
-- keine Übertreibungen  
-- lieber „ich arbeite so“ statt „ich bin“  
-
-Wenn Sie möchten, kann ich:  
-- ein Probe-Interview (typische Polizeifragen) mit Ihnen durchspielen oder  
-- Ihre Antworten auf eine konkrete Landespolizeidirektion zuschneiden.  
-
-Sagen Sie mir, wie intensiv Sie sich vorbereiten möchten.
-
-
 ### 10. Größter Fehler in der IT-Sicherheit?
-
-**Antwort:**  
 > „Zu glauben, dass Tools allein Sicherheit schaffen. Sicherheit ist ein kontinuierlicher Prozess aus Technik, Organisation und Menschen.“
 
 
-🧩 Realistisches Erstgespräch – LPD Burgenland (zivile IT-/Cybercrime-Funktion)
-1️⃣ Einstieg: „Erzählen Sie uns bitte kurz etwas über sich und Ihre Motivation.“
-
-Sehr gute Antwort:
-
-„Gerne. Ich komme aus dem IT-Security-Umfeld und arbeite derzeit als IT-Security Analyst mit Schwerpunkt Schwachstellenmanagement und der Koordination von Penetrationstests.
-Dabei habe ich gemerkt, dass mir besonders strukturierte Analyse, saubere Dokumentation und das Arbeiten mit sensiblen Informationen liegen.
-Das polizeiliche Umfeld interessiert mich, weil hier genau diese Arbeitsweise wichtig ist – insbesondere bei der Bearbeitung von IT-bezogenen Anzeigen und der Unterstützung des Kriminaldienstes.“
-
-➡️ Signal: ruhig, sachlich, keine Übertreibung.
-
-2️⃣ „Warum interessieren Sie sich für die Landespolizeidirektion Burgenland?“
-
-Sehr gute Antwort:
-
-„Die LPD Burgenland sehe ich als sehr passenden Einstieg in das polizeiliche Umfeld.
-Hier geht es weniger um hochspezialisierte Zentralstellen, sondern um praxisnahe Arbeit: Anzeigen mit IT-Bezug, Erstmaßnahmen und die strukturierte Unterstützung von Ermittlungen.
-Genau in diesem Umfeld kann ich meine bisherigen Fähigkeiten sinnvoll einbringen und gleichzeitig lernen.“
-
-➡️ Wichtig: Du sagst nicht „Ich will sofort Forensik machen“.
 
 3️⃣ „Was stellen Sie sich unter Cybercrime-Arbeit bei einer LPD konkret vor?“
-
-Sehr starke Antwort:
 
 „Ich gehe davon aus, dass es vor allem um die Bearbeitung von Anzeigen mit Internet- oder IT-Bezug geht – etwa Betrugsdelikte, Accountmissbrauch oder Datendelikte.
 Dazu zählen für mich die strukturierte Aufnahme von Sachverhalten, die Unterstützung bei Erstmaßnahmen sowie der sorgfältige Umgang mit digitalen Beweismitteln, bevor Fälle gegebenenfalls an spezialisierte Stellen weitergegeben werden.“
 
-➡️ Das entspricht exakt der Realität.
-
-4️⃣ „Sie sprechen von IT-Forensik – wissen Sie, dass wir hier keine BKA-Forensik machen?“
-
-⚠️ Fangfrage – deine Antwort ist entscheidend.
-
-Sehr gute Antwort:
-
-„Ja, das ist mir bewusst. Mir geht es nicht um hochspezialisierte forensische Laborarbeit, sondern um sauberes, regelkonformes Arbeiten im Alltag:
-also das korrekte Erfassen von Sachverhalten, das strukturierte Vorgehen bei Erstmaßnahmen und eine nachvollziehbare Dokumentation, damit Beweise verwertbar bleiben.“
-
-➡️ Damit bist du sofort „auf Linie“.
-
-5️⃣ „Sie haben keine Polizeischule – wie sehen Sie Ihre Rolle bei uns?“
-
-Perfekte Antwort:
-
-„Ich sehe mich klar in einer zivilen Unterstützungsfunktion.
-Mein Beitrag liegt in der technischen Analyse, der strukturierten Aufbereitung von Informationen und der Unterstützung des Kriminaldienstes – nicht im exekutiven Bereich.
-Mir ist wichtig, Aufgaben sauber vorzubereiten und nachvollziehbar zu dokumentieren.“
-
-➡️ Damit bist du 100 % richtig positioniert.
 
 6️⃣ „Wie gehen Sie mit sensiblen Daten um?“
 
-Sehr gute Antwort:
+> Ich arbeite seit längerer Zeit mit sicherheitsrelevanten Informationen und gehe damit sehr bewusst um.
+> Zugriff, Weitergabe und Dokumentation erfolgen für mich immer nach klaren Regeln.
+> Diskretion und Verlässlichkeit sehe ich als Grundvoraussetzung – gerade im polizeilichen Umfeld.
 
-„Ich arbeite seit längerer Zeit mit sicherheitsrelevanten Informationen und gehe damit sehr bewusst um.
-Zugriff, Weitergabe und Dokumentation erfolgen für mich immer nach klaren Regeln.
-Diskretion und Verlässlichkeit sehe ich als Grundvoraussetzung – gerade im polizeilichen Umfeld.“
+Wo sehen Sie sich in ein paar Jahren?“
 
-7️⃣ „Was machen Sie, wenn Sie fachlich noch nicht alles wissen?“
+> Kurzfristig möchte ich praktische Erfahrung im polizeilichen Umfeld sammeln und mich fachlich weiterentwickeln.
+Langfristig kann ich mir vorstellen, mich stärker in Richtung Cybercrime und IT-bezogene Ermittlungsunterstützung zu spezialisieren – immer im Rahmen der jeweiligen Organisation.
 
-Sehr wichtig für die LPD:
 
-„Ich gehe offen damit um.
-Ich arbeite mich strukturiert in neue Themen ein, nutze vorhandene Richtlinien und spreche Unklarheiten frühzeitig an.
-Mir ist es wichtiger, korrekt zu arbeiten, als vorschnelle Annahmen zu treffen.“
+Abschlussfrage: „Haben Sie noch Fragen an uns?“
+- Wie ist die Zusammenarbeit zwischen Kriminaldienst und IT-Unterstützung organisiert?
+- Welche Aufgaben fallen typischerweise bei IT-bezogenen Anzeigen an?
+- Wie erfolgt die Einarbeitung in interne Abläufe?
+- Wie sehr arbeiten die diversen Büro von C4 untereinander
+- Wie ist die fachliche Einschulung im Bereich IT-Forensik aufgebaut?  
+- Wie arbeiten IT-Forensik und Ermittler im Alltag zusammen?  
+- Welche Weiterbildungsformate werden angeboten?
 
-➡️ Das ist Behörden-Gold.
-
-8️⃣ „Wo sehen Sie sich in ein paar Jahren?“
-
-Sehr gute Antwort:
-
-„Kurzfristig möchte ich praktische Erfahrung im polizeilichen Umfeld sammeln und mich fachlich weiterentwickeln.
-Langfristig kann ich mir vorstellen, mich stärker in Richtung Cybercrime und IT-bezogene Ermittlungsunterstützung zu spezialisieren – immer im Rahmen der jeweiligen Organisation.“
-
-➡️ Loyal, realistisch, nicht abgehoben.
-
-9️⃣ Abschlussfrage: „Haben Sie noch Fragen an uns?“
-
-Sehr gute Rückfragen von dir:
-
-„Wie ist die Zusammenarbeit zwischen Kriminaldienst und IT-Unterstützung organisiert?“
-
-„Welche Aufgaben fallen typischerweise bei IT-bezogenen Anzeigen an?“
-
-„Wie erfolgt die Einarbeitung in interne Abläufe?“
-
-❌ Nicht fragen:
-
-Homeoffice
-
-Gehalt
-
-BKA-Wechsel
+Wenn Sie möchten, kann ich:  
+- ein Probe-Interview (typische Polizeifragen) mit Ihnen durchspielen oder  
+- Ihre Antworten auf eine konkrete Landespolizeidirektion zuschneiden.  
 
 
 # Thinking Questions
@@ -606,37 +564,32 @@ BKA-Wechsel
 - Eine Schwachstelle ist eine Sicherheitslücke.  
 - Eine Bedrohung ist etwas, das diese Schwachstelle ausnutzen kann.
 
+---
 
-# Motivationsschreiben
+## Motivationsschreiben
 In meiner bisherigen Tätigkeit im IT-Security-Umfeld konnte ich praxisnahe Erfahrungen in sicherheitsrelevanten Maßnahmen sowie in strukturierten operativen Abläufen sammeln. Dabei habe ich festgestellt, dass meine besondere Stärke darin liegt, komplexe Sachverhalte analytisch zu erfassen und klar nachvollziehbar zu dokumentieren.
 Mit diesem Schreiben bewerbe ich mich initiativ für eine Position im Bereich Cybercrime beim Bundeskriminalamt Wien, insbesondere im Cybercrime-Competence-Center C4. Mein Interesse gilt der IT-Forensik, da ich es spannend finde, digitale Spuren systematisch zu sichern, Zusammenhänge strukturiert zu erkennen und komplexe Sachverhalte präzise aufzubereiten. Die Analyse digitaler Beweismittel sowie die Aufbereitung relevanter Informationen für Kriminalanalysen sehe ich als fachlich besonders interessante Aufgabe, in der ich meine Kenntnisse gezielt weiterentwickeln möchte.
 Ich arbeite strukturiert, präzise und mit einem klaren Blick fürs Detail. Das bedeutet für mich, Informationen systematisch zu erfassen, Zusammenhänge zu erkennen, Auffälligkeiten gründlich zu prüfen und eng mit Kolleg:innen zusammenzuarbeiten. Diese Arbeitsweise habe ich kontinuierlich ausgebaut und möchte sie nun mit meinem technischen Wissen im polizeilichen Umfeld einsetzen, um Ermittlungen fachlich zu unterstützen und zur Aufklärung digitaler Straftaten beizutragen.
 Derzeit bin ich als IT-Security Analyst tätig, mit Schwerpunkt auf Vulnerability Management, Schwachstellenbewertungen sowie der Planung und Koordination von Penetrationstests. Zusätzlich unterstütze ich bei der Umsetzung von Sicherheitsanforderungen im Rahmen der NIS-Richtlinie und wirke an der Gestaltung klar strukturierter Prozesse mit. Auf dieser Basis möchte ich mein Wissen gezielt im Bereich der digitalen Forensik erweitern und meine berufliche Spezialisierung weiter vertiefen.
 
-# Lebenslauf
+---
+
+## Lebenslauf
 
 Berufliche Fachkenntnisse und Weiterbildungen
 Als IT-Security Analyst habe ich die folgenden Kenntnisse erworben:
--
-Vulnerability Management zur Identifikation und Bewertung von Schwachstellen
--
-Penetrationtest planen, durchführen und koordinieren
--
-EDR/XDR-Technologien zur Erkennung und Analyse von Sicherheitsvorfällen
--
-SIEM zur Auswertung von sicherheitsrelevanten Logs und Events
--
-Unterstützung bei ISMS- und Compliance-Themen (ISO 27001)
-Teilnahme an folgenden Schulungen zur fachlichen Weiterbildung:
--
-Dez. 2025 - Schulung „Penetration Testing Fundamentals“
--
-März 2025 - Schulung „SIEM (Analyst und Administrator)“
+- Vulnerability Management zur Identifikation und Bewertung von Schwachstellen
+- Penetrationtest planen, durchführen und koordinieren
+- EDR/XDR-Technologien zur Erkennung und Analyse von Sicherheitsvorfällen
+- SIEM zur Auswertung von sicherheitsrelevanten Logs und Events
+- Unterstützung bei ISMS- und Compliance-Themen (ISO 27001)
+
 Karriereweg
-Seit 10/2023 IT-Security Analyst, Digital Burgenland
-10/2021 bis 10/2023 Junior IT-Security Engineer, Barmherzige Brüder
-06/2019 bis 09/2021 Wissenschaftliche Mitarbeiterin, Burgenland Forschung
-07/2020 bis 12/2020 Berufspraktikum, Österreichische Kontrollbank (OeKB)
+- Seit 10/2023 IT-Security Analyst, Digital Burgenland
+- 10/2021 bis 10/2023 Junior IT-Security Engineer, Barmherzige Brüder
+- 06/2019 bis 09/2021 Wissenschaftliche Mitarbeiterin, Burgenland Forschung
+- 07/2020 bis 12/2020 Berufspraktikum, Österreichische Kontrollbank (OeKB)
+
 Freizeitaktivitäten
 Selbstständige Weiterbildung zur Erweiterung der Kenntnisse in IT-Forensik und Penetrationstesting über eine Lernplattform für ethisches Hacking und Cybersicherheit.
 Krafttraining und Kickboxen dienen mir als Ausgleich und fördern Disziplin sowie Durchhaltevermögen, Lesen und Reisen erweitern meinen Horizont und unterstützen mein persönliches Weiterbilden.
