@@ -25,6 +25,12 @@ Typische Aufgaben von `Digitale Beiweismittelmanagement` in so einem Bereich sin
 Es geht darum, digitale Spuren so zu sichern und aufzubereiten, dass sie gerichtsfest verwendbar sind.
 ```
 
+Daten sortieren
+Spuren sichern
+Dokumentieren
+Auswerten nach klaren Regeln
+Zusammenarbeit mit Ermittlern und Staatsanwaltschaft
+
 Die `Meldestelle des Cybercrime-Competence-Centers (C4)` des Bundeskriminalamts fungiert seit September 2013 als nationale und internationale Ansprechstelle für Cybercrime-Anfragen. Seit Jahren wird ein kontinuierlicher Anstieg der Zahl der Anfragen verzeichnet. https://www.bmi.gv.at/magazin/2023_09_10/04_Meldestelle_C4.aspx
 
 
@@ -54,6 +60,12 @@ Was wissen Sie über die Aufgaben dieses Bereichs?
 Was reizt Sie an der Arbeit mit digitalen Beweismitteln?
 > ...
 
+Digitale Beweise sind gerichtlich relevante Daten
+Alles muss nachvollziehbar und manipulationssicher dokumentiert sein
+Fehler können rechtliche Folgen haben (Beweiswert!)
+
+„Wenn es nicht sauber dokumentiert ist, ist es im Zweifel nicht verwertbar.“
+
 
 ## Fachliches Fundament
 
@@ -80,9 +92,19 @@ Unterschied Polizei vs. Privatwirtschaft
 
 ## Standardprozesse
 
-Vorgehen bei Vorfällen (polizeiliche Logik)
-
 Merkschema: `Sichern → Dokumentieren → Analysieren`
+
+Wie gehen Sie bei der Analyse eines Sicherheitsvorfalls vor?
+**Antwort (Schritt-für-Schritt, realistisch):**  
+1. **Erste Einordnung:** Art und Umfang des Vorfalls identifizieren (betroffene Systeme, Nutzer, Daten).  
+2. **Systemabsicherung:** Betroffene Systeme isolieren, um weitere Schäden zu verhindern.  
+3. **Datensicherung:** Logs, Speicherabbilder und relevante Artefakte unverändert sichern.  
+4. **Dokumentation:** Alle Schritte, Zeitpunkte und Beobachtungen sorgfältig festhalten.  
+5. **Analyse:** Logs, Netzwerkverkehr und Systemereignisse auswerten, Auffälligkeiten identifizieren.  
+6. **Kommunikation:** Ergebnisse strukturiert an zuständige Stellen weitergeben, ggf. Maßnahmen einleiten.  
+7. **Lern- und Verbesserungsschritte:** Erkenntnisse für Prävention und Verbesserung von Prozessen nutzen.  
+
+> Hinweis: Ich habe bisher umfassende Erfahrung in der Analyse von Security Incidents, SIEM-Log-Auswertungen und Schwachstellenbewertung. Die tiefere forensische Analyse von Vorfällen ist aktuell mein Lern- und Entwicklungsschwerpunkt.
 
 Strukturierte Antwort:
 - Sachverhalt erfassen
@@ -97,16 +119,36 @@ Strukturierte Antwort:
 - Zeitstempel & Protokollierung
 - klare Prozesse einhalten
 
+> Zunächst würde ich den Vorfall einordnen und sicherstellen, dass keine weiteren Schäden entstehen. Anschließend sichere ich relevante Informationen wie Logs oder Systemzustände, ohne diese zu verändern. Alle Schritte dokumentiere ich nachvollziehbar. Danach erfolgt eine erste Analyse der Daten und eine strukturierte Weitergabe der Ergebnisse an die zuständige Stelle.
+
 Wie gehen Sie mit sehr großen Datenmengen um?
 > Ich würde sehr strukturiert vorgehen, also zuerst die Daten systematisch kategorisieren und dann Schritt für Schritt nach relevanten Informationen filtern. Mir ist wichtig, dabei sauber zu dokumentieren, wie ich vorgehe, damit die Ergebnisse nachvollziehbar bleiben.
 
 
 ## Persönliche Arbeitsweise
 
+| Kompetenz                    | Kernaussage                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| Struktur & Analyse          | Ich zerlege komplexe Probleme in klare Schritte und arbeite systematisch.  |
+| **Sorgfalt & Genauigkeit**      | Ich achte bewusst auf Details, da kleine Auffälligkeiten entscheidend sind.|
+| Dokumentation               | Ich dokumentiere so, dass Dritte alles nachvollziehen können.              |
+| Verantwortungsbewusstsein   | Ich treffe Entscheidungen bewusst und halte Rücksprache bei Unsicherheiten.|
+| Diskretion                  | Ich arbeite nach dem Need-to-know-Prinzip und halte mich an Richtlinien.   |
+| Lernbereitschaft            | Ich entwickle mich kontinuierlich weiter, besonders im Bereich Forensik.   |
+| Teamarbeit                  | Ermittlungen sind Teamarbeit; ich bereite Ergebnisse verständlich für nicht-technische Stellen auf. |
 
+
+
+| Situation                  | Antwortstrategie                                                                 |
+|---------------------------|----------------------------------------------------------------------------------|
+| Umgang mit Unsicherheit   | Strukturiert analysieren, Infos einholen, frühzeitig Rücksprache halten.        |
+| Umgang mit Fehlern        | Offen damit umgehen, Ursachen analysieren, Verbesserungen ableiten.             |
+| Zeitdruck                 | Ruhig und methodisch arbeiten, um Fehler zu vermeiden.                          |
+| Monotone Arbeit           | Konzentriert und strukturiert arbeiten, Fokus auf Genauigkeit behalten.         |
+| Sensible Inhalte          | Professionell, distanziert und strikt nach Vorgaben arbeiten.                   |
 
 Arbeiten Sie lieber im Team oder selbstständig?
-> „Ermittlungen sind Teamarbeit. Ergebnisse müssen so aufbereitet sein, dass sie auch für nicht-technische Stellen verständlich sind.
+
 
 Wie gehen Sie mit Fehlern oder Unsicherheiten um?
 > Wenn ich unsicher bin oder ein Problem nicht sofort lösen kann, gehe ich das strukturiert an: erst analysieren, was genau unklar ist, dann gezielt Informationen einholen oder Rücksprache halten. Wichtig ist mir dabei, keine vorschnellen Annahmen zu treffen, sondern sorgfältig zu arbeiten.
@@ -121,6 +163,8 @@ Wie gehen Sie vor, wenn Sie etwas Technisches nicht sofort lösen können?
 
 Wichtig im Bereich: Sorgfalt, Systematik, Stressresistenz, Genauigkeit
 
+
+
 ## Analytisches Denken
 
 Beschreiben Sie, wie Sie ein komplexes Problem strukturiert lösen würden.
@@ -134,95 +178,26 @@ Belastbarkeit & Verantwortung
 Wie gehen Sie mit sensiblen oder belastenden Inhalten um?
 Wie stellen Sie sicher, dass Sie sorgfältig und fehlerfrei arbeiten?
 Wie reagieren Sie unter Zeitdruck?
-2) Wie du dich konkret auf diesen Bereich vorbereiten kannst
-A) Verstehen, worum es wirklich geht
 
-Du solltest klar im Kopf haben:
 
-Digitale Beweise sind gerichtlich relevante Daten
-Alles muss nachvollziehbar und manipulationssicher dokumentiert sein
-Fehler können rechtliche Folgen haben (Beweiswert!)
 
-👉 Wichtiges Grundprinzip:
-„Wenn es nicht sauber dokumentiert ist, ist es im Zweifel nicht verwertbar.“
+## Fachliche Eignung
 
-B) Fachliche Basics (kein Expertenwissen nötig, aber Verständnis hilft)
-
-Es reicht oft, wenn du grob verstehst:
-
-Was ist digitale Forensik?
-Was sind typische Datenquellen? (Handy, Laptop, Cloud, Messenger)
-Was bedeutet Datenintegrität / Hash-Werte (z. B. SHA-256 grob kennen)
-Warum Beweissicherung streng geregelt ist
-C) Was du unbedingt rüberbringen solltest
-
-Im Gespräch kommt es besonders gut an, wenn du zeigst:
-
-Sorgfalt statt Schnelligkeit
-strukturiertes Denken
-Interesse an Technik + Rechtssicherheit
-Zuverlässigkeit und Verantwortungsbewusstsein
-keine „Hacker-Romantik“, sondern professionelle IT-Arbeit
-D) Typische „Stolperfalle“
-
-Viele Bewerber denken, es geht um „Hacking“ oder Cybercrime-Action.
-
-➡️ In Wahrheit ist es oft:
-
-Daten sortieren
-Spuren sichern
-Dokumentieren
-Auswerten nach klaren Regeln
-Zusammenarbeit mit Ermittlern und Staatsanwaltschaft
-
-## 1. Einstiegs- und Motivationsfragen
-
-### Warum IT-Forensik und nicht klassische IT-Security?
-**Erwartung:** Bewusste Spezialisierung, realistische Selbsteinschätzung.  
-> In meiner bisherigen Tätigkeit habe ich gemerkt, dass mir die detaillierte Analyse von Vorfällen, das strukturierte Vorgehen und die nachvollziehbare Dokumentation besonders liegen. IT-Forensik verbindet genau diese Aspekte, weshalb ich mich gezielt in diesem Bereich weiterentwickeln möchte.
-
----
-
-## 2. Fachliche Eignung
-
-### Welche forensischen Kenntnisse bringen Sie aktuell mit?
-**Antwort:**  
+Welche forensischen Kenntnisse bringen Sie aktuell mit?
 > Ich verfüge über grundlegende Kenntnisse aus dem IT-Security-Umfeld, etwa Log-Analyse, Incident Handling und strukturierte Dokumentation. Tiefergehende IT-Forensik sehe ich bewusst als Lern- und Entwicklungsschwerpunkt.
-
-### Wie reagieren Sie bei einem IT-Sicherheitsvorfall?
-**Antwortstruktur:**  
-1. Erkennen & Einordnen  
-2. Absichern  
-3. Dokumentieren  
-4. Analysieren  
-5. Abstimmen / Eskalieren  
-
-**Beispielantwort:**  
-> Zunächst würde ich den Vorfall einordnen und sicherstellen, dass keine weiteren Schäden entstehen. Anschließend sichere ich relevante Informationen wie Logs oder Systemzustände, ohne diese zu verändern. Alle Schritte dokumentiere ich nachvollziehbar. Danach erfolgt eine erste Analyse der Daten und eine strukturierte Weitergabe der Ergebnisse an die zuständige Stelle.
 
 
 ### Wie stellen Sie Beweissicherheit sicher?
-**Antwort:**  
 > Daten werden unverändert gesichert, jeder Schritt dokumentiert und nachvollziehbar ausgeführt. Ich halte mich strikt an definierte Prozesse.
 
 ---
-
-## 3. Verhalten & Verantwortungsfragen
-
-### Was tun Sie, wenn Sie unsicher sind?
-**Antwort:**  
-> 
 
 ### Wie gehen Sie mit sensiblen Daten um?
 **Antwort:**  
 > Ich arbeite nach dem Need-to-know-Prinzip, halte Zugriffe minimal und dokumentiere diese. Diskretion und Zweckbindung sind selbstverständlich.
 
-### Was unterscheidet IT-Polizei von einem SOC in der Privatwirtschaft?
-**Antwort:**  
-> Bei der Polizei steht nicht nur die technische Lösung im Vordergrund, sondern auch Beweissicherheit, Nachvollziehbarkeit und rechtliche Verwertbarkeit. Das erfordert besonders sorgfältiges und methodisches Vorgehen.
 
 ### Warum sollten wir Sie einstellen, obwohl Sie noch wenig Forensik-Erfahrung haben?
-**Antwort:**  
 > Ich bringe solide IT-Security-Basis, Erfahrung in Analyse und Dokumentation sowie strukturierte Arbeitsweise mit. IT-Forensik sehe ich bewusst als Spezialisierung, die ich gezielt aufbauen möchte. Lernbereitschaft und Genauigkeit sind meine größten Stärken.
 
 ---
@@ -231,28 +206,13 @@ Zusammenarbeit mit Ermittlern und Staatsanwaltschaft
 
 - Wie reagieren Sie auf monotone oder zeitintensive Analysen?  
 - Wie gehen Sie mit Fehlern um?  
-
-**Antworten:**  
+ 
 > Ich arbeite auch über längere Zeit konzentriert und strukturiert, insbesondere bei Tätigkeiten, die Nachvollziehbarkeit erfordern. Fehler analysiere ich sachlich, dokumentiere sie transparent und leite Maßnahmen ab, um Wiederholungen zu vermeiden.
 
 
 ## 7. Analyse und Tools bei einem Sicherheitsvorfall
 
-### Frage: Wie gehen Sie bei der Analyse eines Sicherheitsvorfalls vor?
-**Antwort (Schritt-für-Schritt, realistisch):**  
-1. **Erste Einordnung:** Art und Umfang des Vorfalls identifizieren (betroffene Systeme, Nutzer, Daten).  
-2. **Systemabsicherung:** Betroffene Systeme isolieren, um weitere Schäden zu verhindern.  
-3. **Datensicherung:** Logs, Speicherabbilder und relevante Artefakte unverändert sichern.  
-4. **Dokumentation:** Alle Schritte, Zeitpunkte und Beobachtungen sorgfältig festhalten.  
-5. **Analyse:** Logs, Netzwerkverkehr und Systemereignisse auswerten, Auffälligkeiten identifizieren.  
-6. **Kommunikation:** Ergebnisse strukturiert an zuständige Stellen weitergeben, ggf. Maßnahmen einleiten.  
-7. **Lern- und Verbesserungsschritte:** Erkenntnisse für Prävention und Verbesserung von Prozessen nutzen.  
-
-> Hinweis: Ich habe bisher umfassende Erfahrung in der Analyse von Security Incidents, SIEM-Log-Auswertungen und Schwachstellenbewertung. Die tiefere forensische Analyse von Vorfällen ist aktuell mein Lern- und Entwicklungsschwerpunkt.
-
----
-
-### Frage: Welche Tools würden Sie bei einem Vorfall einsetzen?
+Welche Tools würden Sie bei einem Vorfall einsetzen?
 **Antwort:**  
 - **SIEM-Systeme:** Splunk, FortiSIEM – für Log-Analyse und Event-Korrelation  
 - **EDR/XDR:** Endpoint Detection & Response Tools zur Identifikation und Eindämmung von Bedrohungen  
@@ -265,32 +225,25 @@ Zusammenarbeit mit Ermittlern und Staatsanwaltschaft
 ---
 
 ### Frage: Wie sichern Sie die Beweise und stellen Nachvollziehbarkeit sicher?
-**Antwort:**  
 - Originaldaten werden **nicht verändert**.  
 - Alle Arbeitsschritte werden **zeitgestempelt und dokumentiert**.  
 - Veränderungen erfolgen nur an **Kopien der Daten**, niemals an Originalsätzen.  
 - Relevante Artefakte (Logs, Speicherabbilder, Netzwerkverkehr) werden gesichert, gesichtet und protokolliert.  
 - Ziel: **jeder Schritt ist nachvollziehbar und gerichtsverwertbar**, falls notwendig.  
 
----
-
 ### Frage: Wie priorisieren Sie bei mehreren Vorfällen gleichzeitig?
-**Antwort:**  
 - Kritische Vorfälle zuerst: Systeme mit hohem Schutzbedarf oder aktive Bedrohung priorisieren.  
 - Parallel: Protokollierte Analyse, Absicherung von weniger kritischen Systemen.  
 - Kontinuierliche Kommunikation mit Team und Vorgesetzten, um Ressourcen effizient zu verteilen.  
 
----
-
 ### Frage: Wie gehen Sie bei einem Vorfall vor, den Sie noch nie gesehen haben?
-**Antwort:**  
 - Ruhe bewahren und methodisch vorgehen.  
 - Informationen sammeln, Logs und Artefakte sichern.  
 - Dokumentation der Schritte und Entscheidungen.  
 - Rücksprache mit erfahreneren Kolleg:innen.  
 - Schrittweise Analyse und Lernen aus dem Vorfall, um systematisch Handlungsempfehlungen ableiten zu können.  
 
-
+---
 
 # Motivationsschreiben
 1. Sicherheitsmaßnahmen
