@@ -1,5 +1,11 @@
 # Vorstellungsgespräch IT-Polizei / IT-Forensik
 
+```
+Bundeskriminalamt (BKA)
+Cybercrime-Competence-Centers (C4)
+Büro 5.5 - Digitales Beweismittelmanagement
+```
+
 ## 1. Einstiegs- und Motivationsfragen
 
 ### Warum möchten Sie zur Polizei wechseln?
@@ -599,3 +605,38 @@ BKA-Wechsel
 (Testet grundlegendes Sicherheitswissen)  
 - Eine Schwachstelle ist eine Sicherheitslücke.  
 - Eine Bedrohung ist etwas, das diese Schwachstelle ausnutzen kann.
+
+
+# Motivationsschreiben
+In meiner bisherigen Tätigkeit im IT-Security-Umfeld konnte ich praxisnahe Erfahrungen in sicherheitsrelevanten Maßnahmen sowie in strukturierten operativen Abläufen sammeln. Dabei habe ich festgestellt, dass meine besondere Stärke darin liegt, komplexe Sachverhalte analytisch zu erfassen und klar nachvollziehbar zu dokumentieren.
+Mit diesem Schreiben bewerbe ich mich initiativ für eine Position im Bereich Cybercrime beim Bundeskriminalamt Wien, insbesondere im Cybercrime-Competence-Center C4. Mein Interesse gilt der IT-Forensik, da ich es spannend finde, digitale Spuren systematisch zu sichern, Zusammenhänge strukturiert zu erkennen und komplexe Sachverhalte präzise aufzubereiten. Die Analyse digitaler Beweismittel sowie die Aufbereitung relevanter Informationen für Kriminalanalysen sehe ich als fachlich besonders interessante Aufgabe, in der ich meine Kenntnisse gezielt weiterentwickeln möchte.
+Ich arbeite strukturiert, präzise und mit einem klaren Blick fürs Detail. Das bedeutet für mich, Informationen systematisch zu erfassen, Zusammenhänge zu erkennen, Auffälligkeiten gründlich zu prüfen und eng mit Kolleg:innen zusammenzuarbeiten. Diese Arbeitsweise habe ich kontinuierlich ausgebaut und möchte sie nun mit meinem technischen Wissen im polizeilichen Umfeld einsetzen, um Ermittlungen fachlich zu unterstützen und zur Aufklärung digitaler Straftaten beizutragen.
+Derzeit bin ich als IT-Security Analyst tätig, mit Schwerpunkt auf Vulnerability Management, Schwachstellenbewertungen sowie der Planung und Koordination von Penetrationstests. Zusätzlich unterstütze ich bei der Umsetzung von Sicherheitsanforderungen im Rahmen der NIS-Richtlinie und wirke an der Gestaltung klar strukturierter Prozesse mit. Auf dieser Basis möchte ich mein Wissen gezielt im Bereich der digitalen Forensik erweitern und meine berufliche Spezialisierung weiter vertiefen.
+
+# Lebenslauf
+
+Berufliche Fachkenntnisse und Weiterbildungen
+Als IT-Security Analyst habe ich die folgenden Kenntnisse erworben:
+-
+Vulnerability Management zur Identifikation und Bewertung von Schwachstellen
+-
+Penetrationtest planen, durchführen und koordinieren
+-
+EDR/XDR-Technologien zur Erkennung und Analyse von Sicherheitsvorfällen
+-
+SIEM zur Auswertung von sicherheitsrelevanten Logs und Events
+-
+Unterstützung bei ISMS- und Compliance-Themen (ISO 27001)
+Teilnahme an folgenden Schulungen zur fachlichen Weiterbildung:
+-
+Dez. 2025 - Schulung „Penetration Testing Fundamentals“
+-
+März 2025 - Schulung „SIEM (Analyst und Administrator)“
+Karriereweg
+Seit 10/2023 IT-Security Analyst, Digital Burgenland
+10/2021 bis 10/2023 Junior IT-Security Engineer, Barmherzige Brüder
+06/2019 bis 09/2021 Wissenschaftliche Mitarbeiterin, Burgenland Forschung
+07/2020 bis 12/2020 Berufspraktikum, Österreichische Kontrollbank (OeKB)
+Freizeitaktivitäten
+Selbstständige Weiterbildung zur Erweiterung der Kenntnisse in IT-Forensik und Penetrationstesting über eine Lernplattform für ethisches Hacking und Cybersicherheit.
+Krafttraining und Kickboxen dienen mir als Ausgleich und fördern Disziplin sowie Durchhaltevermögen, Lesen und Reisen erweitern meinen Horizont und unterstützen mein persönliches Weiterbilden.
