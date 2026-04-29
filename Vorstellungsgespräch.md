@@ -95,7 +95,6 @@ Unterschied Polizei vs. Privatwirtschaft
 Merkschema: `Sichern → Dokumentieren → Analysieren`
 
 Wie gehen Sie bei der Analyse eines Sicherheitsvorfalls vor?
-**Antwort (Schritt-für-Schritt, realistisch):**  
 1. **Erste Einordnung:** Art und Umfang des Vorfalls identifizieren (betroffene Systeme, Nutzer, Daten).  
 2. **Systemabsicherung:** Betroffene Systeme isolieren, um weitere Schäden zu verhindern.  
 3. **Datensicherung:** Logs, Speicherabbilder und relevante Artefakte unverändert sichern.  
@@ -104,7 +103,6 @@ Wie gehen Sie bei der Analyse eines Sicherheitsvorfalls vor?
 6. **Kommunikation:** Ergebnisse strukturiert an zuständige Stellen weitergeben, ggf. Maßnahmen einleiten.  
 7. **Lern- und Verbesserungsschritte:** Erkenntnisse für Prävention und Verbesserung von Prozessen nutzen.  
 
-> Hinweis: Ich habe bisher umfassende Erfahrung in der Analyse von Security Incidents, SIEM-Log-Auswertungen und Schwachstellenbewertung. Die tiefere forensische Analyse von Vorfällen ist aktuell mein Lern- und Entwicklungsschwerpunkt.
 
 Strukturierte Antwort:
 - Sachverhalt erfassen
@@ -127,16 +125,18 @@ Wie gehen Sie mit sehr großen Datenmengen um?
 
 ## Persönliche Arbeitsweise
 
-| Kompetenz                    | Kernaussage                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| Struktur & Analyse          | Ich zerlege komplexe Probleme in klare Schritte und arbeite systematisch.  |
-| **Sorgfalt & Genauigkeit**      | Ich achte bewusst auf Details, da kleine Auffälligkeiten entscheidend sind.|
-| Dokumentation               | Ich dokumentiere so, dass Dritte alles nachvollziehen können.              |
-| Verantwortungsbewusstsein   | Ich treffe Entscheidungen bewusst und halte Rücksprache bei Unsicherheiten.|
-| Diskretion                  | Ich arbeite nach dem Need-to-know-Prinzip und halte mich an Richtlinien.   |
-| Lernbereitschaft            | Ich entwickle mich kontinuierlich weiter, besonders im Bereich Forensik.   |
-| Teamarbeit                  | Ermittlungen sind Teamarbeit; ich bereite Ergebnisse verständlich für nicht-technische Stellen auf. |
+| Kompetenz                    | Kernaussage                                                                 | Konkret im Gespräch                                                                                                  |
+|-----------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Struktur & Analyse          | Ich zerlege komplexe Probleme in klare Schritte und arbeite systematisch.  | Überblick verschaffen, eingrenzen, priorisieren und nachvollziehbar dokumentieren.                                  |
+| Sorgfalt & Genauigkeit      | Ich achte bewusst auf Details, da kleine Auffälligkeiten entscheidend sind.| Zeitstempel, Benutzerkontexte und Abweichungen prüfe ich bewusst vollständig vor einer Bewertung.                  |
+| Dokumentation               | Ich dokumentiere so, dass Dritte alles nachvollziehen können.              | Technische Details, Zeitpunkte, Datenquellen und Annahmen vollständig festhalten („nicht dokumentiert = nicht da“).|
+| Verantwortungsbewusstsein   | Ich treffe Entscheidungen bewusst und halte Rücksprache bei Unsicherheiten.| Mir ist bewusst, dass Fehlbewertungen reale Auswirkungen haben können – daher keine isolierten Entscheidungen.      |
+| Diskretion                  | Ich arbeite nach dem Need-to-know-Prinzip und halte mich an Richtlinien.   | Sensible Informationen nur im vorgesehenen Rahmen verwenden und strikt vertraulich behandeln.                       |
+| Lernbereitschaft            | Ich entwickle mich kontinuierlich weiter, besonders im Bereich Forensik.   | Eigenständige Weiterbildung und aktives Vertiefen von IT-Security- und Forensik-Themen.                            |
+| Teamarbeit                  | Ermittlungen sind Teamarbeit; ich bereite Ergebnisse verständlich auf.     | Ergebnisse so darstellen, dass auch nicht-technische Stellen diese nachvollziehen können.                          |
 
+
+Arbeiten Sie lieber im Team oder selbstständig?
 
 
 | Situation                  | Antwortstrategie                                                                 |
@@ -147,8 +147,25 @@ Wie gehen Sie mit sehr großen Datenmengen um?
 | Monotone Arbeit           | Konzentriert und strukturiert arbeiten, Fokus auf Genauigkeit behalten.         |
 | Sensible Inhalte          | Professionell, distanziert und strikt nach Vorgaben arbeiten.                   |
 
-Arbeiten Sie lieber im Team oder selbstständig?
 
+## Sicherheitsvorfall - CheatSheet
+| Bereich              | Schritt / Frage         | Kernaussage                                                                                         | Typische Tools / Methoden                                                                 |
+|----------------------|------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Eingang              | Meldung erfassen       | Sachverhalt aufnehmen und erste Informationen sammeln.                                              | Ticketing-Systeme, SIEM (Splunk, FortiSIEM)                                               |
+| Eingang              | Alarm prüfen           | Alert validieren, Logs prüfen, Aktivitäten analysieren, betroffene Accounts verifizieren.          | SIEM, Log-Management, EDR/XDR                                                              |
+| Eingang              | Erste Bewertung        | Plausibilität prüfen und priorisieren (kritisch / unkritisch).                                      | SIEM, Playbooks                                                                           |
+| Grundsatz           | Beweisschutz           | Systeme nicht verändern, Beweisintegrität sicherstellen.                                            | Forensische Standards, Write-Blocker (konzeptionell)                                      |
+| Sicherung           | Erste Einordnung       | Betroffene Systeme, Nutzer und Daten identifizieren.                                                | SIEM, CMDB, Asset-Management                                                              |
+| Sicherung           | Systemabsicherung      | Systeme isolieren, um weitere Schäden zu verhindern.                                                | EDR/XDR, Netzwerksegmentierung, Firewall                                                  |
+| Sicherung           | Datensicherung         | Logs, Speicherabbilder und Artefakte unverändert sichern.                                           | SIEM, Imaging-/Forensik-Tools                                                             |
+| Sicherung           | Dokumentation          | Alle Schritte, Zeitpunkte und Beobachtungen lückenlos festhalten.                                   | Confluence, Excel, interne Tools                                                          |
+| Analyse             | Technische Analyse     | Logs, Netzwerkverkehr und Systemereignisse auswerten, Auffälligkeiten erkennen.                    | Splunk, Wireshark, Firewall-Logs                                                          |
+| Auswertung          | Kommunikation          | Ergebnisse strukturiert weitergeben und Maßnahmen abstimmen.                                        | Reporting-Tools, Dokumentation                                                            |
+| Nachbereitung       | Lessons Learned        | Erkenntnisse zur Prävention und Prozessverbesserung nutzen.                                         | Wissensdatenbanken, Reports                                                               |
+| Priorisierung       | Mehrere Vorfälle       | Kritische Fälle zuerst, parallele Bearbeitung, enge Abstimmung im Team.                            | SIEM-Dashboards, Ticketing-Systeme                                                        |
+| Unbekannter Vorfall | Vorgehen               | Ruhig bleiben, Daten sichern, dokumentieren, Rücksprache halten, strukturiert analysieren.         | SIEM, EDR/XDR, interne Wissensquellen                                                     |
+| Grundprinzipien     | Beweissicherheit       | Originaldaten unverändert lassen, auf Kopien arbeiten, alles zeitgestempelt dokumentieren.         | Hashing (z. B. SHA-256), Protokollierung, klare Prozesse                                  |
+| Gesamtprozess       | Struktur (kompakt)     | Erfassen → Sichern → Dokumentieren → Analysieren → Weitergeben → Verbessern                         | Methodisches Vorgehen                                                                     |
 
 Wie gehen Sie mit Fehlern oder Unsicherheiten um?
 > Wenn ich unsicher bin oder ein Problem nicht sofort lösen kann, gehe ich das strukturiert an: erst analysieren, was genau unklar ist, dann gezielt Informationen einholen oder Rücksprache halten. Wichtig ist mir dabei, keine vorschnellen Annahmen zu treffen, sondern sorgfältig zu arbeiten.
@@ -210,18 +227,6 @@ Welche forensischen Kenntnisse bringen Sie aktuell mit?
 > Ich arbeite auch über längere Zeit konzentriert und strukturiert, insbesondere bei Tätigkeiten, die Nachvollziehbarkeit erfordern. Fehler analysiere ich sachlich, dokumentiere sie transparent und leite Maßnahmen ab, um Wiederholungen zu vermeiden.
 
 
-## 7. Analyse und Tools bei einem Sicherheitsvorfall
-
-Welche Tools würden Sie bei einem Vorfall einsetzen?
-**Antwort:**  
-- **SIEM-Systeme:** Splunk, FortiSIEM – für Log-Analyse und Event-Korrelation  
-- **EDR/XDR:** Endpoint Detection & Response Tools zur Identifikation und Eindämmung von Bedrohungen  
-- **Vulnerability Management:** Tenable Nessus, um Schwachstellen zu identifizieren, die den Vorfall ermöglicht haben könnten  
-- **Netzwerk-Analyse:** Wireshark, Traffic Logs, Firewall Logs zur Untersuchung der Kommunikation  
-- **Dokumentationstools:** Confluence, Excel oder interne Tools für nachvollziehbare Aufzeichnungen  
-
-> Ich nutze diese Tools aktuell in meiner Arbeit als IT-Security Analyst. Für forensische Untersuchungen würde ich diese Kenntnisse Schritt für Schritt auf Methoden und Standards der IT-Forensik erweitern.
-
 ---
 
 ### Frage: Wie sichern Sie die Beweise und stellen Nachvollziehbarkeit sicher?
@@ -231,23 +236,11 @@ Welche Tools würden Sie bei einem Vorfall einsetzen?
 - Relevante Artefakte (Logs, Speicherabbilder, Netzwerkverkehr) werden gesichert, gesichtet und protokolliert.  
 - Ziel: **jeder Schritt ist nachvollziehbar und gerichtsverwertbar**, falls notwendig.  
 
-### Frage: Wie priorisieren Sie bei mehreren Vorfällen gleichzeitig?
-- Kritische Vorfälle zuerst: Systeme mit hohem Schutzbedarf oder aktive Bedrohung priorisieren.  
-- Parallel: Protokollierte Analyse, Absicherung von weniger kritischen Systemen.  
-- Kontinuierliche Kommunikation mit Team und Vorgesetzten, um Ressourcen effizient zu verteilen.  
 
-### Frage: Wie gehen Sie bei einem Vorfall vor, den Sie noch nie gesehen haben?
-- Ruhe bewahren und methodisch vorgehen.  
-- Informationen sammeln, Logs und Artefakte sichern.  
-- Dokumentation der Schritte und Entscheidungen.  
-- Rücksprache mit erfahreneren Kolleg:innen.  
-- Schrittweise Analyse und Lernen aus dem Vorfall, um systematisch Handlungsempfehlungen ableiten zu können.  
 
 ---
 
-# Motivationsschreiben
 1. Sicherheitsmaßnahmen
-
 Das sind Tätigkeiten, die IT-Systeme schützen oder Schwachstellen vorbeugen:
 - Einrichtung und Konfiguration von Firewalls, EDR/XDR oder Antivirus-Systemen
 - Umsetzung von Patch- und Update-Management
@@ -259,7 +252,6 @@ Das sind Tätigkeiten, die IT-Systeme schützen oder Schwachstellen vorbeugen:
 - Mitarbeit an Awareness- oder Schulungsmaßnahmen für Nutzer
 
 2. Bedrohungsszenarien
-
 Hier geht es um das Erkennen, Analysieren und Bewerten potenzieller oder aktiver Bedrohungen:
 - Analyse von Sicherheitsvorfällen und Logs (SIEM / Splunk / FortiSIEM)
 - Erkennen von Malware, Phishing oder Ransomware-Angriffen
@@ -269,7 +261,6 @@ Hier geht es um das Erkennen, Analysieren und Bewerten potenzieller oder aktiver
 - Klassifizierung und Priorisierung von Vorfällen nach Kritikalität
 
 3. Operative Abläufe
-
 Das sind die wiederkehrenden, strukturierten Prozesse, die einen reibungslosen Betrieb und Incident-Handling sichern:
 - Incident-Management: Aufnahme, Kategorisierung und Dokumentation von Sicherheitsvorfällen
 - Koordination zwischen IT-Teams, Fachbereichen und ggf. externen Partnern
@@ -300,28 +291,9 @@ Komplexe IT-Probleme werden in einzelne, nachvollziehbare Schritte zerlegt, prio
 **Projektarbeit / CMDB**  
 > „Während des CMDB-Projekts bei der OeKB habe ich IT-Assets systematisch erfasst und kategorisiert, um Übersichtlichkeit und Nachvollziehbarkeit sicherzustellen.“
 
----
-
-## 2. Präzises und sorgfältiges Arbeiten
-
-**Was es bedeutet:**  
-Hohe Aufmerksamkeit für Details, fehlerarmes Arbeiten und klare Nachvollziehbarkeit.
-
-### Beispiele zum Erzählen
-
-**Log-Analyse**  
-> „Bei der Analyse von SIEM-Logs achte ich bewusst auf Details, da auch kleine Auffälligkeiten auf größere Vorfälle hinweisen können.“
-
-**Incident-Dokumentation**  
-> „Ich dokumentiere jeden Schritt eines Security Incidents sorgfältig – von der ersten Erkennung bis zur Lösung –, sodass Abläufe jederzeit nachvollzogen oder für Audits genutzt werden können.“
-
-**Vulnerability Reports**  
-> „Bei Schwachstellenberichten lege ich Wert auf korrekte, vollständige und verständliche Darstellung, damit Maßnahmen gezielt umgesetzt werden können.“
 
 ---
 
-# Typische Fragen im Bewerbungsgespräch bei der Polizei  
-## IT-Sicherheit & IT-Forensik
 
 ### 1. Was bedeutet IT-Sicherheit aus polizeilicher Sicht für Sie?
 > „IT-Sicherheit bedeutet aus polizeilicher Sicht vor allem, digitale Spuren zuverlässig zu sichern, Vorfälle nachvollziehbar zu analysieren und Erkenntnisse so aufzubereiten, dass sie für Ermittlungen und gegebenenfalls vor Gericht verwertbar sind.“
@@ -363,7 +335,6 @@ Hohe Aufmerksamkeit für Details, fehlerarmes Arbeiten und klare Nachvollziehbar
 
 
 ### 1. Wie machen Sie ein Unternehmen sicherer?
-
 > „Zuerst eine Bestandsaufnahme schützenswerter Systeme und Daten, dann risikobasierte Priorisierung. Darauf aufbauend kombiniere ich technische Maßnahmen, Prozesse und Awareness.“
 
 ### 2. Wichtige Sicherheitsmaßnahmen?
@@ -401,63 +372,6 @@ Hohe Aufmerksamkeit für Details, fehlerarmes Arbeiten und klare Nachvollziehbar
 
 
 
-## 2. Hohe Detailorientierung und Genauigkeit
-**Was geprüft wird:**
-- Fehleranfälligkeit
-- Sorgfalt bei Analyse und Bewertung
-- forensische Eignung
- 
-> „Ich lege großen Wert darauf, auch scheinbar kleine Auffälligkeiten ernst zu nehmen. Gerade bei Log-Analysen habe ich mehrfach erlebt, dass Details wie Zeitstempel, Benutzerkontexte oder Abweichungen im Normalverhalten entscheidend waren. Deshalb überprüfe ich Informationen bewusst vollständig, bevor ich eine Bewertung abgebe.“
-
-
-## 3. Ausgeprägtes Verantwortungsbewusstsein
-**Was hier wirklich gemeint ist:**
-- Verlässlichkeit
-- Sicherheitsdenken
-- Umgang mit kritischen Systemen
-
-> „In meiner aktuellen Tätigkeit arbeite ich in einem sicherheitskritischen Umfeld. Mir ist bewusst, dass Fehlbewertungen oder unzureichende Maßnahmen reale Auswirkungen haben können. Deshalb treffe ich Entscheidungen nie isoliert, sondern dokumentiere sie und halte Rücksprache, wenn Sachverhalte unklar sind.“
-
-
-
-## 4. Sorgfältige und nachvollziehbare Dokumentation
-**Warum das extrem wichtig ist:**  
-Für Polizei und Forensik gilt:  
-> „Was nicht dokumentiert ist, existiert nicht.“
-
-> „Ich dokumentiere Sicherheitsvorfälle so, dass sie auch für Dritte nachvollziehbar sind. Dazu gehören technische Details, Zeitpunkte, verwendete Datenquellen und getroffene Annahmen. Diese Vorgehensweise ist für mich selbstverständlich, da sie sowohl für spätere Analysen als auch für revisionssichere Nachvollziehbarkeit entscheidend ist.“
-
-
-
-## 5. Diskretion im Umgang mit sensiblen Informationen
-**Was hier abgeprüft wird:**
-- Vertrauenswürdigkeit
-- Verschwiegenheit
-- Rollenverständnis
-
-> „In meinen bisherigen Positionen hatte ich regelmäßig Zugriff auf sensible technische und organisatorische Informationen. Ich gehe damit sehr bewusst um, bespreche Inhalte ausschließlich im vorgesehenen Rahmen und halte mich strikt an interne Richtlinien. Diskretion ist für mich eine Grundvoraussetzung professioneller Sicherheitsarbeit.“
-
-
-
-## 6. Hohe Lernbereitschaft
-**Was hier zählt:**
-- Selbststeuerung
-- Motivation
-- fachliche Entwicklung
-
-> „Da sich Bedrohungsszenarien und Technologien laufend verändern, halte ich kontinuierliche Weiterbildung für essenziell. Ich beschäftige mich auch außerhalb meiner Kernaufgaben mit IT-Security- und forensischen Themen, um mein Verständnis zu vertiefen und meine Arbeitsweise kontinuierlich zu verbessern.“
-
-
-## 7. Typische Fangfrage – und die richtige Reaktion
-„Welche dieser Stärken ist für die IT-Forensik aus Ihrer Sicht am wichtigsten?“
-
-> „Aus meiner Sicht ist es die Kombination aus strukturierter Analyse und sorgfältiger Dokumentation. Nur wenn beides zusammenkommt, sind Ergebnisse nachvollziehbar und belastbar.“
-
-### 10. Größter Fehler in der IT-Sicherheit?
-> „Zu glauben, dass Tools allein Sicherheit schaffen. Sicherheit ist ein kontinuierlicher Prozess aus Technik, Organisation und Menschen.“
-
-
-
 3️⃣ „Was stellen Sie sich unter Cybercrime-Arbeit bei einer LPD konkret vor?“
 
 „Ich gehe davon aus, dass es vor allem um die Bearbeitung von Anzeigen mit Internet- oder IT-Bezug geht – etwa Betrugsdelikte, Accountmissbrauch oder Datendelikte.
@@ -475,8 +389,9 @@ Wo sehen Sie sich in ein paar Jahren?“
 > Kurzfristig möchte ich praktische Erfahrung im polizeilichen Umfeld sammeln und mich fachlich weiterentwickeln.
 Langfristig kann ich mir vorstellen, mich stärker in Richtung Cybercrime und IT-bezogene Ermittlungsunterstützung zu spezialisieren – immer im Rahmen der jeweiligen Organisation.
 
+---
 
-Abschlussfrage: „Haben Sie noch Fragen an uns?“
+# Abschlussfrage: „Haben Sie noch Fragen an uns?“
 - Wie ist die Zusammenarbeit zwischen Kriminaldienst und IT-Unterstützung organisiert?
 - Welche Aufgaben fallen typischerweise bei IT-bezogenen Anzeigen an?
 - Wie erfolgt die Einarbeitung in interne Abläufe?
@@ -489,6 +404,7 @@ Wenn Sie möchten, kann ich:
 - ein Probe-Interview (typische Polizeifragen) mit Ihnen durchspielen oder  
 - Ihre Antworten auf eine konkrete Landespolizeidirektion zuschneiden.  
 
+---
 
 # Thinking Questions
 
@@ -499,10 +415,6 @@ Wenn Sie möchten, kann ich:
 ### Wie würdest du einen verdächtigen Login untersuchen?  
 (Testet dein Sicherheitsdenken)  
 - Erwähne Dinge wie Logs, IP-Adressen, ungewöhnliche Aktivitäten und wie du den Benutzer verifizierst.  
-
-### Wie würdest du auf einen Sicherheitsvorfall reagieren?  
-(Zeigt, ob du Investigation und Priorisierung verstehst)  
-- Überprüfe den Alarm, schaue in die Logs, analysiere Aktivitäten und bestätige das betroffene Konto, bevor du eskalierst.  
 
 ### Wie bleibst du in der Cybersecurity auf dem Laufenden?  
 (Sie testen Neugier und kontinuierliches Lernen)  
@@ -517,32 +429,8 @@ Wenn Sie möchten, kann ich:
 - Eine Schwachstelle ist eine Sicherheitslücke.  
 - Eine Bedrohung ist etwas, das diese Schwachstelle ausnutzen kann.
 
----
+### „Welche dieser Stärken ist für die IT-Forensik aus Ihrer Sicht am wichtigsten?“
+> „Aus meiner Sicht ist es die Kombination aus strukturierter Analyse und sorgfältiger Dokumentation. Nur wenn beides zusammenkommt, sind Ergebnisse nachvollziehbar und belastbar.“
 
-## Motivationsschreiben
-In meiner bisherigen Tätigkeit im IT-Security-Umfeld konnte ich praxisnahe Erfahrungen in sicherheitsrelevanten Maßnahmen sowie in strukturierten operativen Abläufen sammeln. Dabei habe ich festgestellt, dass meine besondere Stärke darin liegt, komplexe Sachverhalte analytisch zu erfassen und klar nachvollziehbar zu dokumentieren.
-Mit diesem Schreiben bewerbe ich mich initiativ für eine Position im Bereich Cybercrime beim Bundeskriminalamt Wien, insbesondere im Cybercrime-Competence-Center C4. Mein Interesse gilt der IT-Forensik, da ich es spannend finde, digitale Spuren systematisch zu sichern, Zusammenhänge strukturiert zu erkennen und komplexe Sachverhalte präzise aufzubereiten. Die Analyse digitaler Beweismittel sowie die Aufbereitung relevanter Informationen für Kriminalanalysen sehe ich als fachlich besonders interessante Aufgabe, in der ich meine Kenntnisse gezielt weiterentwickeln möchte.
-Ich arbeite strukturiert, präzise und mit einem klaren Blick fürs Detail. Das bedeutet für mich, Informationen systematisch zu erfassen, Zusammenhänge zu erkennen, Auffälligkeiten gründlich zu prüfen und eng mit Kolleg:innen zusammenzuarbeiten. Diese Arbeitsweise habe ich kontinuierlich ausgebaut und möchte sie nun mit meinem technischen Wissen im polizeilichen Umfeld einsetzen, um Ermittlungen fachlich zu unterstützen und zur Aufklärung digitaler Straftaten beizutragen.
-Derzeit bin ich als IT-Security Analyst tätig, mit Schwerpunkt auf Vulnerability Management, Schwachstellenbewertungen sowie der Planung und Koordination von Penetrationstests. Zusätzlich unterstütze ich bei der Umsetzung von Sicherheitsanforderungen im Rahmen der NIS-Richtlinie und wirke an der Gestaltung klar strukturierter Prozesse mit. Auf dieser Basis möchte ich mein Wissen gezielt im Bereich der digitalen Forensik erweitern und meine berufliche Spezialisierung weiter vertiefen.
-
----
-
-## Lebenslauf
-
-Berufliche Fachkenntnisse und Weiterbildungen
-Als IT-Security Analyst habe ich die folgenden Kenntnisse erworben:
-- Vulnerability Management zur Identifikation und Bewertung von Schwachstellen
-- Penetrationtest planen, durchführen und koordinieren
-- EDR/XDR-Technologien zur Erkennung und Analyse von Sicherheitsvorfällen
-- SIEM zur Auswertung von sicherheitsrelevanten Logs und Events
-- Unterstützung bei ISMS- und Compliance-Themen (ISO 27001)
-
-Karriereweg
-- Seit 10/2023 IT-Security Analyst, Digital Burgenland
-- 10/2021 bis 10/2023 Junior IT-Security Engineer, Barmherzige Brüder
-- 06/2019 bis 09/2021 Wissenschaftliche Mitarbeiterin, Burgenland Forschung
-- 07/2020 bis 12/2020 Berufspraktikum, Österreichische Kontrollbank (OeKB)
-
-Freizeitaktivitäten
-Selbstständige Weiterbildung zur Erweiterung der Kenntnisse in IT-Forensik und Penetrationstesting über eine Lernplattform für ethisches Hacking und Cybersicherheit.
-Krafttraining und Kickboxen dienen mir als Ausgleich und fördern Disziplin sowie Durchhaltevermögen, Lesen und Reisen erweitern meinen Horizont und unterstützen mein persönliches Weiterbilden.
+### Größter Fehler in der IT-Sicherheit?
+> „Zu glauben, dass Tools allein Sicherheit schaffen. Sicherheit ist ein kontinuierlicher Prozess aus Technik, Organisation und Menschen.“
