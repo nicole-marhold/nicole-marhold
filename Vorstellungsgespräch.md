@@ -90,34 +90,27 @@ Unterschied Polizei vs. Privatwirtschaft
 > In der Wirtschaft steht oft die schnelle Wiederherstellung im Fokus. Bei der Polizei geht es primär um Beweissicherung, Nachvollziehbarkeit und rechtliche Verwertbarkeit.
 
 
-## Standardprozesse
+### 1. Was bedeutet IT-Sicherheit aus polizeilicher Sicht für Sie?
+> „IT-Sicherheit bedeutet aus polizeilicher Sicht vor allem, digitale Spuren zuverlässig zu sichern, Vorfälle nachvollziehbar zu analysieren und Erkenntnisse so aufzubereiten, dass sie für Ermittlungen und gegebenenfalls vor Gericht verwertbar sind.“
 
-Merkschema: `Sichern → Dokumentieren → Analysieren`
+### 3. Was ist Ihnen bei digitalen Beweisen besonders wichtig?
+> „Die Integrität der Beweise. Jeder Schritt muss nachvollziehbar sein, damit Herkunft, Verarbeitung und Aussagekraft jederzeit überprüft werden können.“
 
-Wie gehen Sie bei der Analyse eines Sicherheitsvorfalls vor?
-1. **Erste Einordnung:** Art und Umfang des Vorfalls identifizieren (betroffene Systeme, Nutzer, Daten).  
-2. **Systemabsicherung:** Betroffene Systeme isolieren, um weitere Schäden zu verhindern.  
-3. **Datensicherung:** Logs, Speicherabbilder und relevante Artefakte unverändert sichern.  
-4. **Dokumentation:** Alle Schritte, Zeitpunkte und Beobachtungen sorgfältig festhalten.  
-5. **Analyse:** Logs, Netzwerkverkehr und Systemereignisse auswerten, Auffälligkeiten identifizieren.  
-6. **Kommunikation:** Ergebnisse strukturiert an zuständige Stellen weitergeben, ggf. Maßnahmen einleiten.  
-7. **Lern- und Verbesserungsschritte:** Erkenntnisse für Prävention und Verbesserung von Prozessen nutzen.  
+### 5. Umgang mit möglichen Beweismitteln?
+> „Ich vermeide Änderungen am System, dokumentiere den Zustand und arbeite ausschließlich mit dafür vorgesehenen Methoden, um die Beweiskette nicht zu gefährden.“
 
+### 6. Rolle der Dokumentation?
+> „Dokumentation ist genauso wichtig wie die Analyse selbst. Ohne saubere Dokumentation verlieren auch technisch korrekte Ergebnisse an Wert.“
 
-Strukturierte Antwort:
-- Sachverhalt erfassen
-- Systeme sichern (keine Veränderung)
-- Daten sichern (Logs, Artefakte)
-- Dokumentation aller Schritte
-- Analyse
-- Weitergabe an zuständige Stellen
-- Beweissicherheit sicherstellen
-- Originaldaten unverändert lassen
-- Arbeiten auf Kopien
-- Zeitstempel & Protokollierung
-- klare Prozesse einhalten
+### 9. Zeitdruck & sensible Fälle?
+> „Gerade unter Zeitdruck ist methodisches und ruhiges Vorgehen entscheidend, um Fehler zu vermeiden, die später nicht mehr korrigierbar sind.“
 
-> Zunächst würde ich den Vorfall einordnen und sicherstellen, dass keine weiteren Schäden entstehen. Anschließend sichere ich relevante Informationen wie Logs oder Systemzustände, ohne diese zu verändern. Alle Schritte dokumentiere ich nachvollziehbar. Danach erfolgt eine erste Analyse der Daten und eine strukturierte Weitergabe der Ergebnisse an die zuständige Stelle.
+### 11. Was ist forensisches Arbeiten? 
+> „Systematisches, objektives und reproduzierbares Vorgehen mit klarer Dokumentation.“
+
+### 12. Verständliche Ergebnisse sicherstellen?
+> „Durch klare Struktur, Zusammenfassungen, Zeitachsen und die Trennung von Fakten und Bewertungen.“
+
 
 Wie gehen Sie mit sehr großen Datenmengen um?
 > Ich würde sehr strukturiert vorgehen, also zuerst die Daten systematisch kategorisieren und dann Schritt für Schritt nach relevanten Informationen filtern. Mir ist wichtig, dabei sauber zu dokumentieren, wie ich vorgehe, damit die Ergebnisse nachvollziehbar bleiben.
@@ -167,6 +160,8 @@ Arbeiten Sie lieber im Team oder selbstständig?
 | Grundprinzipien     | Beweissicherheit       | Originaldaten unverändert lassen, auf Kopien arbeiten, alles zeitgestempelt dokumentieren.         | Hashing (z. B. SHA-256), Protokollierung, klare Prozesse                                  |
 | Gesamtprozess       | Struktur (kompakt)     | Erfassen → Sichern → Dokumentieren → Analysieren → Weitergeben → Verbessern                         | Methodisches Vorgehen                                                                     |
 
+---
+
 Wie gehen Sie mit Fehlern oder Unsicherheiten um?
 > Wenn ich unsicher bin oder ein Problem nicht sofort lösen kann, gehe ich das strukturiert an: erst analysieren, was genau unklar ist, dann gezielt Informationen einholen oder Rücksprache halten. Wichtig ist mir dabei, keine vorschnellen Annahmen zu treffen, sondern sorgfältig zu arbeiten.
 > In sicherheitskritischen Situationen halte ich es für essenziell, Unsicherheiten offen zu kommunizieren, Rücksprache zu halten und Entscheidungen nachvollziehbar abzusichern.
@@ -180,7 +175,7 @@ Wie gehen Sie vor, wenn Sie etwas Technisches nicht sofort lösen können?
 
 Wichtig im Bereich: Sorgfalt, Systematik, Stressresistenz, Genauigkeit
 
-
+---
 
 ## Analytisches Denken
 
@@ -196,21 +191,13 @@ Wie gehen Sie mit sensiblen oder belastenden Inhalten um?
 Wie stellen Sie sicher, dass Sie sorgfältig und fehlerfrei arbeiten?
 Wie reagieren Sie unter Zeitdruck?
 
-
-
-## Fachliche Eignung
-
-Welche forensischen Kenntnisse bringen Sie aktuell mit?
-> Ich verfüge über grundlegende Kenntnisse aus dem IT-Security-Umfeld, etwa Log-Analyse, Incident Handling und strukturierte Dokumentation. Tiefergehende IT-Forensik sehe ich bewusst als Lern- und Entwicklungsschwerpunkt.
+---
 
 
 ### Wie stellen Sie Beweissicherheit sicher?
 > Daten werden unverändert gesichert, jeder Schritt dokumentiert und nachvollziehbar ausgeführt. Ich halte mich strikt an definierte Prozesse.
 
----
-
 ### Wie gehen Sie mit sensiblen Daten um?
-**Antwort:**  
 > Ich arbeite nach dem Need-to-know-Prinzip, halte Zugriffe minimal und dokumentiere diese. Diskretion und Zweckbindung sind selbstverständlich.
 
 
@@ -223,8 +210,8 @@ Welche forensischen Kenntnisse bringen Sie aktuell mit?
 
 - Wie reagieren Sie auf monotone oder zeitintensive Analysen?  
 - Wie gehen Sie mit Fehlern um?  
- 
-> Ich arbeite auch über längere Zeit konzentriert und strukturiert, insbesondere bei Tätigkeiten, die Nachvollziehbarkeit erfordern. Fehler analysiere ich sachlich, dokumentiere sie transparent und leite Maßnahmen ab, um Wiederholungen zu vermeiden.
+ > Ich arbeite auch über längere Zeit konzentriert und strukturiert, insbesondere bei Tätigkeiten, die Nachvollziehbarkeit erfordern.
+ > Fehler analysiere ich sachlich, dokumentiere sie transparent und leite Maßnahmen ab, um Wiederholungen zu vermeiden.
 
 
 ---
@@ -273,14 +260,10 @@ Das sind die wiederkehrenden, strukturierten Prozesse, die einen reibungslosen B
 # Lebenslauf – Persönliche Stärken
 
 ## 1. Analytische und strukturierte Arbeitsweise
-
-**Was es bedeutet:**  
 Komplexe IT-Probleme werden in einzelne, nachvollziehbare Schritte zerlegt, priorisiert und systematisch bearbeitet.
 
 > „Bei sicherheitsrelevanten Vorfällen gehe ich grundsätzlich strukturiert vor. Zuerst verschaffe ich mir einen Überblick über die verfügbaren Informationen, insbesondere Log- und Ereignisdaten. Anschließend grenze ich den Vorfall zeitlich und technisch ein, prüfe mögliche Ursachen und dokumentiere die einzelnen Analyse¬schritte nachvollziehbar. Dieses Vorgehen hat sich insbesondere bei der Bewertung von SIEM-Alerts bewährt.“
  `Sie beschreiben eine Methode, nicht nur ein Ergebnis.`
-
-### Beispiele zum Erzählen
 
 **Incident Response**  
 > „Bei Security Incidents gehe ich strukturiert vor: Zuerst erfasse ich alle relevanten Logs, priorisiere kritische Ereignisse, analysiere die Ursache Schritt für Schritt und dokumentiere alles nachvollziehbar. So lässt sich der Vorfall klar rekonstruieren.“
@@ -288,50 +271,9 @@ Komplexe IT-Probleme werden in einzelne, nachvollziehbare Schritte zerlegt, prio
 **Vulnerability Management**  
 > „Bei Schwachstellenscans analysiere ich die Ergebnisse systematisch nach Kritikalität, betroffenen Systemen und möglichen Auswirkungen, bevor ich konkrete Handlungsempfehlungen ableite.“
 
-**Projektarbeit / CMDB**  
-> „Während des CMDB-Projekts bei der OeKB habe ich IT-Assets systematisch erfasst und kategorisiert, um Übersichtlichkeit und Nachvollziehbarkeit sicherzustellen.“
 
 
 ---
-
-
-### 1. Was bedeutet IT-Sicherheit aus polizeilicher Sicht für Sie?
-> „IT-Sicherheit bedeutet aus polizeilicher Sicht vor allem, digitale Spuren zuverlässig zu sichern, Vorfälle nachvollziehbar zu analysieren und Erkenntnisse so aufzubereiten, dass sie für Ermittlungen und gegebenenfalls vor Gericht verwertbar sind.“
-
-### 2. Wie würden Sie bei einem vermuteten Cybervorfall vorgehen?
-
-**Antwort (klassische Polizeilogik):**  
-> „Zuerst erfasse ich den Sachverhalt und stelle sicher, dass keine Veränderungen am System erfolgen. Danach sichere ich relevante Daten unter Beachtung der Beweiskette. Erst anschließend beginne ich mit der Analyse und dokumentiere die Ergebnisse nachvollziehbar.“
-
-**Merksatz:**  
-**Sichern → Dokumentieren → Analysieren**
-
-
-### 3. Was ist Ihnen bei digitalen Beweisen besonders wichtig?
-
-> „Die Integrität der Beweise. Jeder Schritt muss nachvollziehbar sein, damit Herkunft, Verarbeitung und Aussagekraft jederzeit überprüft werden können.“
-
-
-### 4. Unterschied Wirtschaft vs. Polizei?
-> „In der Wirtschaft steht oft die schnelle Wiederherstellung des Betriebs im Fokus. Bei der Polizei geht es stärker um Beweissicherung, rechtliche Verwertbarkeit und langfristige Nachvollziehbarkeit – genau dieser forensische Ansatz interessiert mich besonders.“
-
-
-### 5. Umgang mit möglichen Beweismitteln?
-> „Ich vermeide Änderungen am System, dokumentiere den Zustand und arbeite ausschließlich mit dafür vorgesehenen Methoden, um die Beweiskette nicht zu gefährden.“
-
-### 6. Rolle der Dokumentation?
-> „Dokumentation ist genauso wichtig wie die Analyse selbst. Ohne saubere Dokumentation verlieren auch technisch korrekte Ergebnisse an Wert.“
-
-
-### 9. Zeitdruck & sensible Fälle?
-> „Gerade unter Zeitdruck ist methodisches und ruhiges Vorgehen entscheidend, um Fehler zu vermeiden, die später nicht mehr korrigierbar sind.“
-
-### 11. Was ist forensisches Arbeiten? 
-> „Systematisches, objektives und reproduzierbares Vorgehen mit klarer Dokumentation.“
-
-
-### 12. Verständliche Ergebnisse sicherstellen?
-> „Durch klare Struktur, Zusammenfassungen, Zeitachsen und die Trennung von Fakten und Bewertungen.“
 
 
 ### 1. Wie machen Sie ein Unternehmen sicherer?
@@ -368,7 +310,6 @@ Komplexe IT-Probleme werden in einzelne, nachvollziehbare Schritte zerlegt, prio
 ### 9. Rolle von Monitoring?
 
 > „Monitoring hilft, Auffälligkeiten früh zu erkennen – wichtig ist eine klare Reaktion auf Warnungen.“
-
 
 
 
