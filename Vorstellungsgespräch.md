@@ -64,7 +64,21 @@ Digitale Beweise sind gerichtlich relevante Daten
 Alles muss nachvollziehbar und manipulationssicher dokumentiert sein
 Fehler können rechtliche Folgen haben (Beweiswert!)
 
-„Wenn es nicht sauber dokumentiert ist, ist es im Zweifel nicht verwertbar.“
+Unterschied Polizei vs. Privatwirtschaft
+> In der Wirtschaft steht oft die schnelle Wiederherstellung im Fokus. Bei der Polizei geht es primär um Beweissicherung, Nachvollziehbarkeit und rechtliche Verwertbarkeit.
+
+„Was stellen Sie sich unter Cybercrime-Arbeit bei einer LPD konkret vor?“
+> Ich gehe davon aus, dass es vor allem um die Bearbeitung von Anzeigen mit Internet- oder IT-Bezug geht – etwa Betrugsdelikte, Accountmissbrauch oder Datendelikte.
+Dazu zählen für mich die strukturierte Aufnahme von Sachverhalten, die Unterstützung bei Erstmaßnahmen sowie der sorgfältige Umgang mit digitalen Beweismitteln, bevor Fälle gegebenenfalls an spezialisierte Stellen weitergegeben werden.“
+
+
+Wo sehen Sie sich in ein paar Jahren?
+> Kurzfristig möchte ich praktische Erfahrung im polizeilichen Umfeld sammeln und mich fachlich weiterentwickeln.
+Langfristig kann ich mir vorstellen, mich stärker in Richtung Cybercrime und IT-bezogene Ermittlungsunterstützung zu spezialisieren – immer im Rahmen der jeweiligen Organisation.
+
+Warum sollten wir Sie einstellen, obwohl Sie noch wenig Forensik-Erfahrung haben?
+> Ich bringe solide IT-Security-Basis, Erfahrung in Analyse und Dokumentation sowie strukturierte Arbeitsweise mit. IT-Forensik sehe ich bewusst als Spezialisierung, die ich gezielt aufbauen möchte. Lernbereitschaft und Genauigkeit sind meine größten Stärken.
+
 
 
 ## Fachliches Fundament
@@ -85,9 +99,6 @@ Datenintegrität (wichtig!)
 - Sicherstellung, dass Daten unverändert sind
 - z. B. Hash-Werte (SHA-256)
 - Vergleich vor/nach Analyse
-
-Unterschied Polizei vs. Privatwirtschaft
-> In der Wirtschaft steht oft die schnelle Wiederherstellung im Fokus. Bei der Polizei geht es primär um Beweissicherung, Nachvollziehbarkeit und rechtliche Verwertbarkeit.
 
 
 ### 1. Was bedeutet IT-Sicherheit aus polizeilicher Sicht für Sie?
@@ -129,16 +140,13 @@ Wie gehen Sie mit sehr großen Datenmengen um?
 | Teamarbeit                  | Ermittlungen sind Teamarbeit; ich bereite Ergebnisse verständlich auf.     | Ergebnisse so darstellen, dass auch nicht-technische Stellen diese nachvollziehen können.                          |
 
 
-Arbeiten Sie lieber im Team oder selbstständig?
-
-
 | Situation                  | Antwortstrategie                                                                 |
 |---------------------------|----------------------------------------------------------------------------------|
-| Umgang mit Unsicherheit   | Strukturiert analysieren, Infos einholen, frühzeitig Rücksprache halten.        |
+| Umgang mit Unsicherheit   | Strukturiert analysieren, Infos einholen, nutze RL, frühzeitig Rücksprache halten.        |
 | Umgang mit Fehlern        | Offen damit umgehen, Ursachen analysieren, Verbesserungen ableiten.             |
 | Zeitdruck                 | Ruhig und methodisch arbeiten, um Fehler zu vermeiden.                          |
 | Monotone Arbeit           | Konzentriert und strukturiert arbeiten, Fokus auf Genauigkeit behalten.         |
-| Sensible Inhalte          | Professionell, distanziert und strikt nach Vorgaben arbeiten.                   |
+| Sensible Inhalte          | Need-to-know-Prinzip, Diskretion, Verlässlichkeit und nach Vorgaben arbeiten.                   |
 
 
 ## Sicherheitsvorfall - CheatSheet
@@ -160,20 +168,6 @@ Arbeiten Sie lieber im Team oder selbstständig?
 | Grundprinzipien     | Beweissicherheit       | Originaldaten unverändert lassen, auf Kopien arbeiten, alles zeitgestempelt dokumentieren.         | Hashing (z. B. SHA-256), Protokollierung, klare Prozesse                                  |
 | Gesamtprozess       | Struktur (kompakt)     | Erfassen → Sichern → Dokumentieren → Analysieren → Weitergeben → Verbessern                         | Methodisches Vorgehen                                                                     |
 
----
-
-Wie gehen Sie mit Fehlern oder Unsicherheiten um?
-> Wenn ich unsicher bin oder ein Problem nicht sofort lösen kann, gehe ich das strukturiert an: erst analysieren, was genau unklar ist, dann gezielt Informationen einholen oder Rücksprache halten. Wichtig ist mir dabei, keine vorschnellen Annahmen zu treffen, sondern sorgfältig zu arbeiten.
-> In sicherheitskritischen Situationen halte ich es für essenziell, Unsicherheiten offen zu kommunizieren, Rücksprache zu halten und Entscheidungen nachvollziehbar abzusichern.
-
-> Ich gehe offen damit um, arbeite mich strukturiert ein, halte mich an Standards und tausche mich mit erfahrenen Kolleginnen und Kollegen aus.
-
-> Ich gehe offen damit um. Ich arbeite mich strukturiert in neue Themen ein, nutze vorhandene Richtlinien und spreche Unklarheiten frühzeitig an. Mir ist es wichtiger, korrekt zu arbeiten, als vorschnelle Annahmen zu treffen.“
-
-Wie gehen Sie vor, wenn Sie etwas Technisches nicht sofort lösen können?
-> ...
-
-Wichtig im Bereich: Sorgfalt, Systematik, Stressresistenz, Genauigkeit
 
 ---
 
@@ -182,8 +176,10 @@ Wichtig im Bereich: Sorgfalt, Systematik, Stressresistenz, Genauigkeit
 Beschreiben Sie, wie Sie ein komplexes Problem strukturiert lösen würden.
 > ...
 
-Haben Sie Erfahrung mit Datenanalyse / IT / technischen Tools?
+Wie gehen Sie vor, wenn Sie etwas Technisches nicht sofort lösen können?
 > ...
+
+Wichtig im Bereich: Sorgfalt, Systematik, Stressresistenz, Genauigkeit
 
 Wie würden Sie vorgehen, um in großen Datenmengen relevante Informationen zu finden?
 Belastbarkeit & Verantwortung
@@ -191,52 +187,20 @@ Wie gehen Sie mit sensiblen oder belastenden Inhalten um?
 Wie stellen Sie sicher, dass Sie sorgfältig und fehlerfrei arbeiten?
 Wie reagieren Sie unter Zeitdruck?
 
----
 
-
-### Wie stellen Sie Beweissicherheit sicher?
+Wie stellen Sie Beweissicherheit sicher?
 > Daten werden unverändert gesichert, jeder Schritt dokumentiert und nachvollziehbar ausgeführt. Ich halte mich strikt an definierte Prozesse.
 
-### Wie gehen Sie mit sensiblen Daten um?
-> Ich arbeite nach dem Need-to-know-Prinzip, halte Zugriffe minimal und dokumentiere diese. Diskretion und Zweckbindung sind selbstverständlich.
-
-
-### Warum sollten wir Sie einstellen, obwohl Sie noch wenig Forensik-Erfahrung haben?
-> Ich bringe solide IT-Security-Basis, Erfahrung in Analyse und Dokumentation sowie strukturierte Arbeitsweise mit. IT-Forensik sehe ich bewusst als Spezialisierung, die ich gezielt aufbauen möchte. Lernbereitschaft und Genauigkeit sind meine größten Stärken.
 
 ---
 
-## 4. Typische Fangfragen / Selbstreflexion
-
-- Wie reagieren Sie auf monotone oder zeitintensive Analysen?  
-- Wie gehen Sie mit Fehlern um?  
- > Ich arbeite auch über längere Zeit konzentriert und strukturiert, insbesondere bei Tätigkeiten, die Nachvollziehbarkeit erfordern.
- > Fehler analysiere ich sachlich, dokumentiere sie transparent und leite Maßnahmen ab, um Wiederholungen zu vermeiden.
-
-
----
-
-### Frage: Wie sichern Sie die Beweise und stellen Nachvollziehbarkeit sicher?
+Wie sichern Sie die Beweise und stellen Nachvollziehbarkeit sicher?
 - Originaldaten werden **nicht verändert**.  
 - Alle Arbeitsschritte werden **zeitgestempelt und dokumentiert**.  
 - Veränderungen erfolgen nur an **Kopien der Daten**, niemals an Originalsätzen.  
 - Relevante Artefakte (Logs, Speicherabbilder, Netzwerkverkehr) werden gesichert, gesichtet und protokolliert.  
 - Ziel: **jeder Schritt ist nachvollziehbar und gerichtsverwertbar**, falls notwendig.  
 
-
-
----
-
-1. Sicherheitsmaßnahmen
-Das sind Tätigkeiten, die IT-Systeme schützen oder Schwachstellen vorbeugen:
-- Einrichtung und Konfiguration von Firewalls, EDR/XDR oder Antivirus-Systemen
-- Umsetzung von Patch- und Update-Management
-- Verwaltung von Benutzerrechten und Zugriffssteuerungen
-- Absicherung von Netzwerken (VPNs, Segmentierung, sichere Protokolle)
-- Durchführung von Vulnerability-Scans (z. B. Tenable Nessus)
-- Mitwirkung an Security Policies, Sicherheitsrichtlinien oder Compliance-Maßnahmen
-- Überprüfung von Backup- und Recovery-Konzepten
-- Mitarbeit an Awareness- oder Schulungsmaßnahmen für Nutzer
 
 2. Bedrohungsszenarien
 Hier geht es um das Erkennen, Analysieren und Bewerten potenzieller oder aktiver Bedrohungen:
@@ -259,76 +223,98 @@ Das sind die wiederkehrenden, strukturierten Prozesse, die einen reibungslosen B
 
 # Lebenslauf – Persönliche Stärken
 
-## 1. Analytische und strukturierte Arbeitsweise
-Komplexe IT-Probleme werden in einzelne, nachvollziehbare Schritte zerlegt, priorisiert und systematisch bearbeitet.
-
-> „Bei sicherheitsrelevanten Vorfällen gehe ich grundsätzlich strukturiert vor. Zuerst verschaffe ich mir einen Überblick über die verfügbaren Informationen, insbesondere Log- und Ereignisdaten. Anschließend grenze ich den Vorfall zeitlich und technisch ein, prüfe mögliche Ursachen und dokumentiere die einzelnen Analyse¬schritte nachvollziehbar. Dieses Vorgehen hat sich insbesondere bei der Bewertung von SIEM-Alerts bewährt.“
+Analytische und strukturierte Arbeitsweise
+> Zuerst verschaffe ich mir einen Überblick über die verfügbaren Informationen, insbesondere Log- und Ereignisdaten. Anschließend grenze ich den Vorfall zeitlich und technisch ein, prüfe mögliche Ursachen und dokumentiere die einzelnen Analyse¬schritte nachvollziehbar. Dieses Vorgehen hat sich insbesondere bei der Bewertung von SIEM-Alerts bewährt.“
+> Mit strukturierter Vorgehensweise meine ich ein systematisches, risikobasiertes Vorgehen: zuerst eine klare Analyse der bestehenden Systeme und Risiken, dann Priorisierung nach Impact, darauf aufbauend definierte Maßnahmen, deren Umsetzung und kontinuierliche Überprüfung – alles nachvollziehbar dokumentiert.
  `Sie beschreiben eine Methode, nicht nur ein Ergebnis.`
-
-**Incident Response**  
-> „Bei Security Incidents gehe ich strukturiert vor: Zuerst erfasse ich alle relevanten Logs, priorisiere kritische Ereignisse, analysiere die Ursache Schritt für Schritt und dokumentiere alles nachvollziehbar. So lässt sich der Vorfall klar rekonstruieren.“
-
-**Vulnerability Management**  
-> „Bei Schwachstellenscans analysiere ich die Ergebnisse systematisch nach Kritikalität, betroffenen Systemen und möglichen Auswirkungen, bevor ich konkrete Handlungsempfehlungen ableite.“
-
 
 
 ---
 
+# IT-Sicherheitsstrategie
 
-### 1. Wie machen Sie ein Unternehmen sicherer?
-> „Zuerst eine Bestandsaufnahme schützenswerter Systeme und Daten, dann risikobasierte Priorisierung. Darauf aufbauend kombiniere ich technische Maßnahmen, Prozesse und Awareness.“
+Wie machen Sie ein Unternehmen sicherer?
+> Zuerst eine Bestandsaufnahme schützenswerter Systeme und Daten, dann risikobasierte Priorisierung. Anschließend werden technische Maßnahmen, klare Prozesse und gezielte Awareness kombiniert, um Sicherheit nachhaltig zu verankern.
+> - Asset Management als Grundlage (IT, Daten, Schnittstellen)
+> - Schutzbedarfsermittlung (z. B. Vertraulichkeit, Integrität, Verfügbarkeit)
+> - Orientierung an Standards wie ISO/IEC 27001 oder NIST
+> - Balance zwischen Sicherheit und operativer Nutzbarkeit
 
-### 2. Wichtige Sicherheitsmaßnahmen?
-
-> „Schwachstellenmanagement, klare Berechtigungskonzepte, regelmäßige Updates, Monitoring und definierte Prozesse.“
-
-### 3. Woran erkennt man gute Sicherheit?
-
-> „An systematischem Risikomanagement, dokumentierten Prozessen und konsequenter Umsetzung von Findings.“
-
-### 4. Rolle von Pentests?
-
-> „Pentests machen reale Schwachstellen sichtbar. Entscheidend ist die strukturierte Nachbearbeitung und Integration ins Schwachstellenmanagement.“
-
-### 5. Umgang mit Schwachstellen?
- 
-> „Bewertung, Priorisierung, Abstimmung mit Verantwortlichen und nachvollziehbare Nachverfolgung bis zur Behebung.“
-
-### 6. Nicht alle Lücken sofort schließbar?
-
-> „Dann definiere ich Übergangsmaßnahmen und mache Risiken transparent und dokumentiert.“
-
-### 7. Prozesse & Dokumentation?
- 
-> „Essentiell – für Betrieb, Vorfälle und forensische Nachvollziehbarkeit.“
-
-### 8. Security Awareness?
-
-> „Praxisnahe Schulungen und verständliche Regeln sind wirksamer als reine Verbote.“
-
-### 9. Rolle von Monitoring?
-
-> „Monitoring hilft, Auffälligkeiten früh zu erkennen – wichtig ist eine klare Reaktion auf Warnungen.“
+Wichtige Sicherheitsmaßnahmen?
+> Wirksame Sicherheit entsteht durch das Zusammenspiel mehrerer Disziplinen.
+> Technisch
+> - Patch- und Update-Management (zeitnah, priorisiert)
+> - Schwachstellenmanagement (Scanning + Bewertung)
+> - Absicherung von Netzwerken (VPNs, Segmentierung, sichere Protokolle, Zero-Trust-Ansatz)
+> - Multi-Faktor-Authentifizierung (MFA)
+> - Endpoint Detection & Response (EDR)
+> Organisatorisch
+> - Rollen- und Berechtigungskonzepte (Least Privilege)
+> - Richtlinien & Policies
+> - Lieferanten-/Drittparteien-Risikomanagement
+> - Awareness- oder Schulungsmaßnahmen für Nutzer
+> Operativ
+> - Kontinuierliches Monitoring (SIEM/SOC)
+> - Incident-Response-Prozesse
+> - Regelmäßige Backups & Wiederherstellungstests
 
 
+Woran erkennt man gute Sicherheit?
+> Nicht an einzelnen Tools, sondern an einem systematischen und gelebten Sicherheitsmanagement.
+> - Etabliertes Risikomanagement
+> - Dokumentierte und auditierbare Prozesse
+> - Regelmäßige Überprüfung (Audits, Reviews)
+> - Messbare Kennzahlen (KPIs), z. B.: Time-to-Detect /Time-to-Respond
+> - Kontinuierliche Verbesserung (Lessons Learned)
 
-3️⃣ „Was stellen Sie sich unter Cybercrime-Arbeit bei einer LPD konkret vor?“
+Rolle von Pentests?
+> Pentests sind ein realistischer Prüfstein für die tatsächliche Sicherheitslage.
+> - Simulation realer Angriffe (technisch + ggf. Social Engineering)
+> - Identifikation konkreter Schwachstellen
+> - Priorisierte Handlungsempfehlungen
 
-„Ich gehe davon aus, dass es vor allem um die Bearbeitung von Anzeigen mit Internet- oder IT-Bezug geht – etwa Betrugsdelikte, Accountmissbrauch oder Datendelikte.
-Dazu zählen für mich die strukturierte Aufnahme von Sachverhalten, die Unterstützung bei Erstmaßnahmen sowie der sorgfältige Umgang mit digitalen Beweismitteln, bevor Fälle gegebenenfalls an spezialisierte Stellen weitergegeben werden.“
+Umgang mit Schwachstellen?
+> Strukturiert, risikoorientiert und nachvollziehbar.
+> - Identifikation (Scan, Pentest, Meldung)
+> - Bewertung (z. B. CVSS, Business Impact)
+> - Priorisierung (kritisch vs. tolerierbar)
+> - Abstimmung mit Systemverantwortlichen
+> - Behebung oder Risikobehandlung
+> - Dokumentation & Tracking
 
+Wenn nicht alle Schwachstellen sofort behebbar sind
+> Dann ist Transparenz und Risikomanagement entscheidend.
+> - Definition von Übergangslösungen (Workarounds, Kompensationsmaßnahmen)
+> - Risikoakzeptanz durch Verantwortliche
+> - Dokumentation inkl. Begründung
+> - Fristen und erneute Bewertung
 
-6️⃣ „Wie gehen Sie mit sensiblen Daten um?“
+Prozesse & Dokumentation?
+> Ohne strukturierte Prozesse ist Sicherheit nicht skalierbar oder überprüfbar (Nachvollziehbarkeit für rechtliche Vorgaben).
+> - Incident Response (inkl. Eskalationsstufen)
+> - Change Management
+> - Zugriffskontrollen
+> - Forensische Nachvollziehbarkeit (Logging, Chain of Custody)
 
-> Ich arbeite seit längerer Zeit mit sicherheitsrelevanten Informationen und gehe damit sehr bewusst um.
-> Zugriff, Weitergabe und Dokumentation erfolgen für mich immer nach klaren Regeln.
-> Diskretion und Verlässlichkeit sehe ich als Grundvoraussetzung – gerade im polizeilichen Umfeld.
+Security Awareness?
+> Der Mensch ist ein zentraler Faktor – sowohl Risiko als auch Verteidigungslinie.
+> - Praxisnahe Schulungen (Phishing-Simulationen etc.)
+> - Klare, verständliche Regeln statt reiner Verbote
+> - Regelmäßige Wiederholung
+> - Sicherheitskultur statt Angstkultur
 
-Wo sehen Sie sich in ein paar Jahren?“
+Rolle von Monitoring?
+> Monitoring ist nur so gut wie die Reaktion darauf, zur Früherkennung von Angriffen.
+> - Zentrale Logsammlung (SIEM)
+> - Use Cases / Detektionsregeln
+> - Alarmierung mit klaren Eskalationswegen
 
-> Kurzfristig möchte ich praktische Erfahrung im polizeilichen Umfeld sammeln und mich fachlich weiterentwickeln.
-Langfristig kann ich mir vorstellen, mich stärker in Richtung Cybercrime und IT-bezogene Ermittlungsunterstützung zu spezialisieren – immer im Rahmen der jeweiligen Organisation.
+Im Kontext einer Sicherheitsbehörde wie dem Bundeskriminalamt Österreich kannst du zusätzlich hervorheben:
+> - Umgang mit hochsensiblen Daten (z. B. Ermittlungsdaten)
+> - Schutz vor gezielten Angriffen (APT – Advanced Persistent Threats)
+> - Enge Verzahnung von IT-Sicherheit und operativer Polizeiarbeit
+> - Hohe Anforderungen an Verfügbarkeit und Integrität
+> - Zusammenarbeit mit internationalen Behörden (z. B. Europol)
 
 ---
 
@@ -375,3 +361,5 @@ Wenn Sie möchten, kann ich:
 
 ### Größter Fehler in der IT-Sicherheit?
 > „Zu glauben, dass Tools allein Sicherheit schaffen. Sicherheit ist ein kontinuierlicher Prozess aus Technik, Organisation und Menschen.“
+
+### Arbeiten Sie lieber im Team oder selbstständig?
