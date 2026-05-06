@@ -25,12 +25,6 @@ Typische Aufgaben von `Digitale Beiweismittelmanagement` in so einem Bereich sin
 Es geht darum, digitale Spuren so zu sichern und aufzubereiten, dass sie gerichtsfest verwendbar sind.
 ```
 
-Daten sortieren
-Spuren sichern
-Dokumentieren
-Auswerten nach klaren Regeln
-Zusammenarbeit mit Ermittlern und Staatsanwaltschaft
-
 Die `Meldestelle des Cybercrime-Competence-Centers (C4)` des Bundeskriminalamts fungiert seit September 2013 als nationale und internationale Ansprechstelle für Cybercrime-Anfragen. Seit Jahren wird ein kontinuierlicher Anstieg der Zahl der Anfragen verzeichnet. https://www.bmi.gv.at/magazin/2023_09_10/04_Meldestelle_C4.aspx
 
 
@@ -40,94 +34,168 @@ Erzählen Sie uns bitte kurz etwas über sich und Ihre Motivation.
 > Ich komme aus dem IT-Security-Umfeld und arbeite aktuell als IT-Security Analyst mit Schwerpunkt Schwachstellenmanagement und Koordination von Penetrationstests. Dabei habe ich festgestellt, dass mir strukturierte Analyse, saubere Dokumentation und der Umgang mit sensiblen Informationen besonders liegen. Genau diese Arbeitsweise ist auch im polizeilichen Umfeld entscheidend, weshalb mich die Rolle sehr anspricht.
 
 Warum möchten Sie zum BKA?
-> Mich interessiert besonders, dass technische Arbeit hier direkt in echte Ermittlungen und rechtssichere Ergebnisse einfließt. Es geht nicht nur um Technik, sondern darum, dass Ergebnisse später auch vor Gericht Bestand haben müssen. Diese Kombination aus Genauigkeit und Verantwortung finde ich sehr spannend.
-
-> Mich motiviert besonders, dass technische Arbeit bei der Polizei unmittelbar zur Aufklärung von Straftaten beiträgt. Ich möchte meine IT-Security-Kenntnisse in einem Umfeld einsetzen, in dem Genauigkeit, Beweissicherheit und Verantwortung im Mittelpunkt stehen.
-
-> Mich motiviert die unmittelbare gesellschaftliche Relevanz. Meine Arbeit trägt direkt zur Aufklärung von Straftaten bei.
+> Mich motiviert besonders, dass meine technische Arbeit direkt zur Aufklärung von Straftaten beiträgt und eine klare gesellschaftliche Relevanz hat. Im digitalen Beweismittelmanagement geht es für mich darum, Daten strukturiert zu sichern, zu verwalten und auszuwerten, sodass sie im Ermittlungsverfahren nachvollziehbar und gerichtsfest genutzt werden können.
+> Dabei stehen Genauigkeit, eine manipulationssichere Vorgehensweise und saubere Dokumentation im Mittelpunkt. Diese Verbindung aus Technik, Verantwortung und rechtlicher Verwertbarkeit finde ich besonders spannend.
 
 Warum IT-Forensik statt klassische IT-Security?
-> In meiner bisherigen Tätigkeit habe ich gemerkt, dass mir detaillierte Analyse, strukturiertes Vorgehen und nachvollziehbare Dokumentation besonders liegen. IT-Forensik vereint genau diese Aspekte, weshalb ich mich gezielt in diese Richtung weiterentwickeln möchte.
+> Mich interessiert an der IT-Forensik besonders die analytische und strukturierte Herangehensweise. Es geht nicht nur darum, Angriffe zu erkennen, sondern sie im Detail nachzuvollziehen und belastbare Erkenntnisse zu gewinnen.
+> Ich finde es spannend, aus einzelnen Spuren ein Gesamtbild zu rekonstruieren und dabei methodisch und nachvollziehbar vorzugehen. Gerade im behördlichen Umfeld ist es wichtig, dass Ergebnisse nicht nur technisch korrekt, sondern auch dokumentiert und im Zweifel verwertbar sind. Diese Kombination aus Technik, Analyse und Verantwortung passt sehr gut zu meinen Stärken.
 
 Warum interessiert Sie gerade der Bereich digitales Beweismittelmanagement?
-> Darunter verstehe ich die strukturierte Sicherung, Verwaltung und Auswertung digitaler Daten, sodass diese im Ermittlungsverfahren nachvollziehbar und gerichtsfest genutzt werden können. Dazu gehört aus meiner Sicht besonders, dass alle Schritte dokumentiert und manipulationssicher durchgeführt werden.
+> Mich interessiert besonders, dass technische Arbeit in diesem Bereich direkt in reale Ermittlungen einfließt und Ergebnisse rechtssicher sein müssen. Für mich bedeutet digitales Beweismittelmanagement, Daten **strukturiert zu erfassen**, zu sortieren und relevante Spuren sauber zu sichern.
+Dabei ist es entscheidend, jeden Schritt **nachvollziehbar zu dokumentieren** und die Auswertung nach klar definierten Regeln durchzuführen, damit die Ergebnisse belastbar und gerichtsfest sind.
+Besonders spannend finde ich auch die enge Zusammenarbeit mit Ermittlern und der Staatsanwaltschaft, da hier technische Analyse und juristische Anforderungen zusammenkommen.
 
-> Mich reizt besonders die strukturierte und nachvollziehbare Arbeit mit digitalen Daten, bei der jeder Schritt dokumentiert und gerichtsfest sein muss. Diese Kombination aus technischer Analyse und rechtlicher Relevanz entspricht genau meinen Stärken.
 
 Was wissen Sie über die Aufgaben dieses Bereichs?
-> ...
+> Die IT-Forensik unterstützt Ermittlungen, indem sie digitale Spuren sichert, analysiert und nachvollziehbar aufbereitet. Dazu gehört zunächst die forensisch saubere Sicherung von Daten, etwa durch Images, ohne die Originale zu verändern.
+> Anschließend werden relevante Artefakte wie Logdaten, Dateien oder Netzwerkspuren systematisch ausgewertet, um Abläufe zu rekonstruieren und Zusammenhänge zu erkennen.
+Ein zentraler Aspekt ist dabei die lückenlose Dokumentation, damit die Ergebnisse nachvollziehbar und im Zweifel auch vor Gericht verwertbar sind.
+Darüber hinaus arbeitet die IT-Forensik eng mit Ermittlern und der Staatsanwaltschaft zusammen, um technische Erkenntnisse in den Gesamtkontext eines Falls einzuordnen.
 
 Was reizt Sie an der Arbeit mit digitalen Beweismitteln?
-> ...
-
-Digitale Beweise sind gerichtlich relevante Daten
-Alles muss nachvollziehbar und manipulationssicher dokumentiert sein
-Fehler können rechtliche Folgen haben (Beweiswert!)
+> Mich reizt an der Arbeit mit digitalen Beweismitteln vor allem die Kombination aus analytischer Arbeit und hoher Verantwortung. Es geht darum, aus großen Datenmengen strukturiert relevante Spuren herauszufiltern, Zusammenhänge zu erkennen und daraus ein nachvollziehbares Gesamtbild zu erstellen.
+Gleichzeitig ist mir bewusst, dass diese Ergebnisse nicht nur technisch korrekt sein müssen, sondern auch dokumentiert und im Zweifel gerichtsfest sind. Diese Verbindung aus strukturierter Analyse, Genauigkeit und direktem Beitrag zu Ermittlungen finde ich besonders spannend.
 
 Unterschied Polizei vs. Privatwirtschaft
-> In der Wirtschaft steht oft die schnelle Wiederherstellung im Fokus. Bei der Polizei geht es primär um Beweissicherung, Nachvollziehbarkeit und rechtliche Verwertbarkeit.
-
-„Was stellen Sie sich unter Cybercrime-Arbeit bei einer LPD konkret vor?“
-> Ich gehe davon aus, dass es vor allem um die Bearbeitung von Anzeigen mit Internet- oder IT-Bezug geht – etwa Betrugsdelikte, Accountmissbrauch oder Datendelikte.
-Dazu zählen für mich die strukturierte Aufnahme von Sachverhalten, die Unterstützung bei Erstmaßnahmen sowie der sorgfältige Umgang mit digitalen Beweismitteln, bevor Fälle gegebenenfalls an spezialisierte Stellen weitergegeben werden.“
-
-
-Wo sehen Sie sich in ein paar Jahren?
-> Kurzfristig möchte ich praktische Erfahrung im polizeilichen Umfeld sammeln und mich fachlich weiterentwickeln.
-Langfristig kann ich mir vorstellen, mich stärker in Richtung Cybercrime und IT-bezogene Ermittlungsunterstützung zu spezialisieren – immer im Rahmen der jeweiligen Organisation.
+> In der Wirtschaft steht oft die schnelle Wiederherstellung im Fokus.
+> Bei der Polizei geht es primär um Beweissicherung, Nachvollziehbarkeit und rechtliche Verwertbarkeit.
 
 Warum sollten wir Sie einstellen, obwohl Sie noch wenig Forensik-Erfahrung haben?
 > Ich bringe solide IT-Security-Basis, Erfahrung in Analyse und Dokumentation sowie strukturierte Arbeitsweise mit. IT-Forensik sehe ich bewusst als Spezialisierung, die ich gezielt aufbauen möchte. Lernbereitschaft und Genauigkeit sind meine größten Stärken.
 
 
+---
+
 
 ## Fachliches Fundament
 
 Was ist IT-Forensik?
-> Sicherung, Analyse und Auswertung digitaler Spuren
-> Ziel: objektive, reproduzierbare Ergebnisse
+> IT-Forensik ist der strukturierte und nachvollziehbare Prozess der Sicherung, Analyse und Auswertung digitaler Spuren, um technische Sachverhalte zu rekonstruieren. Ziel ist es, aus Daten belastbare und dokumentierte Erkenntnisse zu gewinnen, die im Ermittlungs- oder Rechtskontext verwendet werden können.
 
-Typische Datenquellen
-- PCs / Laptops
-- Smartphones
-- Server
-- Cloud-Dienste
-- Messenger / E-Mail
-- Logs / Netzwerkdaten
+Was sind typische Datenquellen?
+> Typische Datenquellen in der IT-Forensik umfassen Endgeräte wie Computer und Smartphones, Server- und Systemumgebungen, Netzwerkdaten sowie Logfiles. Ergänzt werden diese durch Cloud- und Online-Dienste sowie Kommunikationsdaten wie E-Mail oder Messenger.
+Diese unterschiedlichen Quellen werden in der Analyse miteinander korreliert, um digitale Aktivitäten nachvollziehbar zu rekonstruieren und ein vollständiges Bild des Vorfalls zu erstellen.
 
-Datenintegrität (wichtig!)
-- Sicherstellung, dass Daten unverändert sind
-- z. B. Hash-Werte (SHA-256)
-- Vergleich vor/nach Analyse
+Was ist Datenintegrität?
+> Datenintegrität bedeutet, dass Daten unverändert, vollständig und zuverlässig bleiben. In der Forensik stellt sie sicher, dass Informationen nicht manipuliert wurden und als Beweismittel verwendbar bleiben. Dies wird unter anderem durch Hashwerte und kontrollierte Sicherungsprozesse gewährleistet.
 
+Was ist Chain of Custody?
+> Chain of Custody (Beweismittelkette) bezeichnet die lückenlose, nachvollziehbare Dokumentation des gesamten Umgangs mit einem digitalen oder physischen Beweisstück – von der Sicherung bis zur Auswertung und ggf. Präsentation vor Gericht.
+> - wer ein Beweisstück wann übernommen hat
+> - wo es sich befand
+> - was damit gemacht wurde
+> - ob und wie es gesichert/verändert wurde (idealerweise nie verändert)
 
-### 1. Was bedeutet IT-Sicherheit aus polizeilicher Sicht für Sie?
-> „IT-Sicherheit bedeutet aus polizeilicher Sicht vor allem, digitale Spuren zuverlässig zu sichern, Vorfälle nachvollziehbar zu analysieren und Erkenntnisse so aufzubereiten, dass sie für Ermittlungen und gegebenenfalls vor Gericht verwertbar sind.“
+Wie sichern Sie die Beweise und stellen Nachvollziehbarkeit sicher?
+- Originaldaten werden **nicht verändert**.  
+- Alle Arbeitsschritte werden **zeitgestempelt und dokumentiert**.  
+- Veränderungen erfolgen nur an **Kopien der Daten**, niemals an Originalsätzen.  
+- Relevante Artefakte (Logs, Speicherabbilder, Netzwerkverkehr) werden gesichert, gesichtet und protokolliert.  
+- Ziel: **jeder Schritt ist nachvollziehbar und gerichtsverwertbar**, falls notwendig.  
 
-### 3. Was ist Ihnen bei digitalen Beweisen besonders wichtig?
-> „Die Integrität der Beweise. Jeder Schritt muss nachvollziehbar sein, damit Herkunft, Verarbeitung und Aussagekraft jederzeit überprüft werden können.“
+Wie ist der perative Ablauf?
+Das sind die wiederkehrenden, strukturierten Prozesse, die einen reibungslosen Betrieb und Incident-Handling sichern:
+- Incident-Management: Aufnahme, Kategorisierung und Dokumentation von Sicherheitsvorfällen
+- Koordination zwischen IT-Teams, Fachbereichen und ggf. externen Partnern
+- Reporting an Vorgesetzte, Audits oder Compliance-Teams
+- Erstellung von Dokumentationen, Nachweisen und Handlungsempfehlungen
+- Durchführung von regelmäßigen Systemprüfungen und Kontrollen
+- Mitarbeit in Change-Management- oder Projektprozessen, z. B. CMDB-Einführung
 
-### 5. Umgang mit möglichen Beweismitteln?
-> „Ich vermeide Änderungen am System, dokumentiere den Zustand und arbeite ausschließlich mit dafür vorgesehenen Methoden, um die Beweiskette nicht zu gefährden.“
+Was bedeutet IT-Sicherheit aus polizeilicher Sicht für Sie?
+> IT-Sicherheit aus polizeilicher Sicht bedeutet für mich den Schutz digitaler Systeme, Daten und Kommunikationswege vor Angriffen, Manipulation und unbefugtem Zugriff – mit dem Ziel, die Verfügbarkeit, Integrität und Vertraulichkeit sicherzustellen.
+> Im polizeilichen Kontext geht es dabei nicht nur um Prävention, sondern auch darum, Angriffe frühzeitig zu erkennen, zu analysieren und zu verfolgen. IT-Sicherheit unterstützt somit direkt Ermittlungen, schützt sensible Informationen und trägt dazu bei, Straftaten im digitalen Raum aufzuklären.
 
-### 6. Rolle der Dokumentation?
-> „Dokumentation ist genauso wichtig wie die Analyse selbst. Ohne saubere Dokumentation verlieren auch technisch korrekte Ergebnisse an Wert.“
+Was ist bei digitalen Beweisen besonders wichtig?
+> Bei digitalen Beweisen ist mir besonders wichtig, dass ihre Integrität jederzeit gewährleistet ist, sie also unverändert und nachvollziehbar bleiben. Ebenso entscheidend ist eine lückenlose Dokumentation aller Schritte von der Sicherung bis zur Auswertung, damit die Herkunft und der Umgang mit den Daten jederzeit überprüfbar sind.
+Darüber hinaus ist mir wichtig, dass digitale Beweise strukturiert und methodisch korrekt analysiert werden, sodass die Ergebnisse reproduzierbar und im Ermittlungs- oder Gerichtsverfahren verwertbar sind.“
 
-### 9. Zeitdruck & sensible Fälle?
-> „Gerade unter Zeitdruck ist methodisches und ruhiges Vorgehen entscheidend, um Fehler zu vermeiden, die später nicht mehr korrigierbar sind.“
-
-### 11. Was ist forensisches Arbeiten? 
-> „Systematisches, objektives und reproduzierbares Vorgehen mit klarer Dokumentation.“
-
-### 12. Verständliche Ergebnisse sicherstellen?
-> „Durch klare Struktur, Zusammenfassungen, Zeitachsen und die Trennung von Fakten und Bewertungen.“
-
+Rolle der Dokumentation?
+> Die Dokumentation ist ein zentraler Bestandteil der IT-Forensik und genauso wichtig wie die eigentliche Analyse. Sie stellt sicher, dass alle Schritte von der Sicherung bis zur Auswertung nachvollziehbar, reproduzierbar und überprüfbar bleiben.
 
 Wie gehen Sie mit sehr großen Datenmengen um?
-> Ich würde sehr strukturiert vorgehen, also zuerst die Daten systematisch kategorisieren und dann Schritt für Schritt nach relevanten Informationen filtern. Mir ist wichtig, dabei sauber zu dokumentieren, wie ich vorgehe, damit die Ergebnisse nachvollziehbar bleiben.
+> Überblick & Eingrenzung: Datenquellen verstehen & Scope reduzieren (z.B. Zeit, System, Ereignis)
+> Strukturierung: Kategorisieren (Logs, Geräte, Netzwerk etc.) & Ordnung in große Datenmengen bringen
+> Filtern & Priorisieren: relevante von irrelevanten Daten trennen & risikobasiert arbeiten
+> Iteratives Arbeiten: Hypothesen bilden & Schrittweise verfeinern
+> Dokumentation: jeder Schritt nachvollziehbar & wichtig für Reproduzierbarkeit
+
+Was ist eine Hashfunktion?
+> Eine Hashfunktion ist ein mathematisches Verfahren, das beliebige Daten in einen festen, eindeutigen Wert (Hash) umwandelt. Schon kleinste Änderungen an den Daten führen zu einem komplett anderen Hashwert.
+> Wichtig für den Nachweis der Datenintegrität / Sicherstellen, dass Beweise nicht verändert wurden
+
+Unterschied MD5 vs. SHA-256
+> MD5 gilt als kryptographisch gebrochen (Kollisionen möglich),
+> während SHA-256 deutlich sicherer ist und daher bevorzugt verwendet wird.
+
+Was ist ein forensisches Image?
+> Ein forensisches Image ist eine bitweise Kopie eines Datenträgers, die alle Daten enthält – inklusive gelöschter Bereiche und freiem Speicher.
+> Wichtig, weil die Original bleibt unverändert - Analyse erfolgt auf Kopie - Beweiswert bleibt erhalten
+
+Warum bitweise?
+> Weil nur so wirklich alle Daten erfasst werden – nicht nur sichtbare Dateien.
+
+Was ist ein Write-Blocker?
+> Ein Write-Blocker verhindert, dass beim Zugriff auf ein Speichermedium Daten verändert oder überschrieben werden.
+> Wichtig für den Schutz der Originaldaten - Sicherstellung der forensischen Integrität
+
+Was passiert beim Löschen einer Datei?
+> Beim Löschen wird in der Regel nur der Verweis auf die Datei entfernt, nicht die Daten selbst. Der Speicherbereich wird als „frei“ markiert und kann überschrieben werden.
+> Daten sind oft wiederherstellbar, solange sie nicht überschrieben wurden
+
+Warum ist RAM-Analyse wichtig?
+> Der Arbeitsspeicher enthält flüchtige Daten, die nach dem Ausschalten verloren gehen. (laufende Prozesse, Netzwerkverbindungen, ggf. Passwörter oder Schlüssel)
+
+Warum schnell sichern?
+> Weil diese Daten sonst unwiederbringlich verloren sind.
+
+Was ist ein pcap-File?
+> Ein pcap-File ist eine Datei, die Netzwerkverkehr auf Paketebene speichert. ( IP-Adressen, Ports, Protokolle, Payload)
+
+Warum sind Zeitstempel kritisch?
+> Zeitstempel sind zentral für die Rekonstruktion von Ereignissen (Timeline).
+Probleme: unterschiedliche Zeitzonen, manipulierte Systemzeit, inkonsistente Logs -> Zeitangaben korreliert und validiert werden
+
+Unterschied statische vs. dynamische Malware-Analyse
+> Statisch: Analyse ohne Ausführung z. B. Code, Signaturen
+> Dynamisch: Verhalten wird während Ausführung beobachtet 
+
+Was tun bei verschlüsselten Daten?
+> Direktes Entschlüsseln ist oft nicht möglich – daher alternative Ansätze:
+Analyse von Metadaten
+Zugriff auf entschlüsselte Daten im RAM
+Untersuchung von Endpunkten (z. B. eingeloggte Sessions)
+Fokus: indirekte Informationsgewinnung
+
+Welche Spuren hinterlässt ein Benutzer?
+> Typische Artefakte:
+> - Logins / Authentifizierungslogs
+> - Browser-Historie
+> - temporäre Dateien
+> - Systemlogs
+> - ggf. Registry-Einträge (Windows)
+
+„Sie haben ein Image und vermuten Datenexfiltration – wie gehen Sie vor?“
+> - Integrität prüfen (Hashvergleich)
+> - Überblick verschaffen (Dateisystem, Struktur)
+> - Timeline erstellen (Zeitstempel analysieren)
+> - Logs auswerten (Zugriffe, Transfers)
+> - Netzwerkartefakte analysieren
+> - Auffälligkeiten korrelieren
+> - Ergebnisse dokumentieren (klar getrennt: Fakten vs. Bewertung)
+
+Was macht Beweise unverwertbar?
+> - Veränderung der Originaldaten
+> - fehlende oder lückenhafte Dokumentation
+> - unterbrochene Chain of Custody
+> - nicht reproduzierbare Analyse
 
 
-## Persönliche Arbeitsweise
+---
+
+
+### Persönliche Arbeitsweise
 
 | Kompetenz                    | Kernaussage                                                                 | Konkret im Gespräch                                                                                                  |
 |-----------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -149,7 +217,8 @@ Wie gehen Sie mit sehr großen Datenmengen um?
 | Sensible Inhalte          | Need-to-know-Prinzip, Diskretion, Verlässlichkeit und nach Vorgaben arbeiten.                   |
 
 
-## Sicherheitsvorfall - CheatSheet
+### Sicherheitsvorfall - CheatSheet
+
 | Bereich              | Schritt / Frage         | Kernaussage                                                                                         | Typische Tools / Methoden                                                                 |
 |----------------------|------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Eingang              | Meldung erfassen       | Sachverhalt aufnehmen und erste Informationen sammeln.                                              | Ticketing-Systeme, SIEM (Splunk, FortiSIEM)                                               |
@@ -168,68 +237,24 @@ Wie gehen Sie mit sehr großen Datenmengen um?
 | Grundprinzipien     | Beweissicherheit       | Originaldaten unverändert lassen, auf Kopien arbeiten, alles zeitgestempelt dokumentieren.         | Hashing (z. B. SHA-256), Protokollierung, klare Prozesse                                  |
 | Gesamtprozess       | Struktur (kompakt)     | Erfassen → Sichern → Dokumentieren → Analysieren → Weitergeben → Verbessern                         | Methodisches Vorgehen                                                                     |
 
-
 ---
 
-## Analytisches Denken
 
-Beschreiben Sie, wie Sie ein komplexes Problem strukturiert lösen würden.
-> ...
+Stärken
+- „Ich gehe Probleme systematisch an und dokumentiere sauber. - Strukturiertes Arbeiten
+- „Ich hinterfrage Zusammenhänge und arbeite hypothesengeleitet.“ - Analytisches Denken
+- „Gerade bei sensiblen Daten arbeite ich sehr präzise.“ - Sorgfalt / Genauigkeit
+- „Ich bin mir bewusst, welche Auswirkungen Fehler haben können.“ - Verantwortungsbewusstsein
 
-Wie gehen Sie vor, wenn Sie etwas Technisches nicht sofort lösen können?
-> ...
+Schwächen
+- „Ich neige dazu, **sehr tief in Details** zu gehen, was Zeit kosten kann. Ich arbeite daran, bewusst zu priorisieren und mich stärker am Gesamtziel zu orientieren.“
+- „In neuen Teams bin ich anfangs eher **zurückhaltend**, was sich aber schnell legt, sobald ich mich fachlich einbringen kann.“
+- „Ich habe einen **hohen Anspruch an meine Arbeit**, was manchmal dazu führt, dass ich länger an Lösungen arbeite. Inzwischen setze ich mir bewusst klare Grenzen.“
 
-Wichtig im Bereich: Sorgfalt, Systematik, Stressresistenz, Genauigkeit
-
-Wie würden Sie vorgehen, um in großen Datenmengen relevante Informationen zu finden?
-Belastbarkeit & Verantwortung
-Wie gehen Sie mit sensiblen oder belastenden Inhalten um?
-Wie stellen Sie sicher, dass Sie sorgfältig und fehlerfrei arbeiten?
-Wie reagieren Sie unter Zeitdruck?
-
-
-Wie stellen Sie Beweissicherheit sicher?
-> Daten werden unverändert gesichert, jeder Schritt dokumentiert und nachvollziehbar ausgeführt. Ich halte mich strikt an definierte Prozesse.
 
 
 ---
 
-Wie sichern Sie die Beweise und stellen Nachvollziehbarkeit sicher?
-- Originaldaten werden **nicht verändert**.  
-- Alle Arbeitsschritte werden **zeitgestempelt und dokumentiert**.  
-- Veränderungen erfolgen nur an **Kopien der Daten**, niemals an Originalsätzen.  
-- Relevante Artefakte (Logs, Speicherabbilder, Netzwerkverkehr) werden gesichert, gesichtet und protokolliert.  
-- Ziel: **jeder Schritt ist nachvollziehbar und gerichtsverwertbar**, falls notwendig.  
-
-
-2. Bedrohungsszenarien
-Hier geht es um das Erkennen, Analysieren und Bewerten potenzieller oder aktiver Bedrohungen:
-- Analyse von Sicherheitsvorfällen und Logs (SIEM / Splunk / FortiSIEM)
-- Erkennen von Malware, Phishing oder Ransomware-Angriffen
-- Bewertung von Schwachstellen in Systemen oder Anwendungen
-- Überwachung von Netzwerk- und Endpoint-Aktivitäten auf Auffälligkeiten
-- Mitarbeit an Risikoanalysen und Threat-Modelling
-- Klassifizierung und Priorisierung von Vorfällen nach Kritikalität
-
-3. Operative Abläufe
-Das sind die wiederkehrenden, strukturierten Prozesse, die einen reibungslosen Betrieb und Incident-Handling sichern:
-- Incident-Management: Aufnahme, Kategorisierung und Dokumentation von Sicherheitsvorfällen
-- Koordination zwischen IT-Teams, Fachbereichen und ggf. externen Partnern
-- Reporting an Vorgesetzte, Audits oder Compliance-Teams
-- Erstellung von Dokumentationen, Nachweisen und Handlungsempfehlungen
-- Durchführung von regelmäßigen Systemprüfungen und Kontrollen
-- Mitarbeit in Change-Management- oder Projektprozessen, z. B. CMDB-Einführung
-
-
-# Lebenslauf – Persönliche Stärken
-
-Analytische und strukturierte Arbeitsweise
-> Zuerst verschaffe ich mir einen Überblick über die verfügbaren Informationen, insbesondere Log- und Ereignisdaten. Anschließend grenze ich den Vorfall zeitlich und technisch ein, prüfe mögliche Ursachen und dokumentiere die einzelnen Analyse¬schritte nachvollziehbar. Dieses Vorgehen hat sich insbesondere bei der Bewertung von SIEM-Alerts bewährt.“
-> Mit strukturierter Vorgehensweise meine ich ein systematisches, risikobasiertes Vorgehen: zuerst eine klare Analyse der bestehenden Systeme und Risiken, dann Priorisierung nach Impact, darauf aufbauend definierte Maßnahmen, deren Umsetzung und kontinuierliche Überprüfung – alles nachvollziehbar dokumentiert.
- `Sie beschreiben eine Methode, nicht nur ein Ergebnis.`
-
-
----
 
 # IT-Sicherheitsstrategie
 
@@ -327,39 +352,71 @@ Im Kontext einer Sicherheitsbehörde wie dem Bundeskriminalamt Österreich kanns
 - Wie arbeiten IT-Forensik und Ermittler im Alltag zusammen?  
 - Welche Weiterbildungsformate werden angeboten?
 
-Wenn Sie möchten, kann ich:  
-- ein Probe-Interview (typische Polizeifragen) mit Ihnen durchspielen oder  
-- Ihre Antworten auf eine konkrete Landespolizeidirektion zuschneiden.  
 
 ---
 
+
 # Thinking Questions
 
-### Erzähle von einem technischen Problem, das du gelöst hast  
-(Sie wollen sehen, wie du denkst)  
-- Beschreibe das Problem, deinen Ansatz und was du daraus gelernt hast (Labs, CTFs oder Projekte).  
+Wie würdest du einen verdächtigen Login untersuchen?  
+- Logs prüfen (Login-Zeit, User, IP, Gerät)
+- Auffälligkeiten mit normalem Nutzerverhalten vergleichen
+- Aktivitäten nach Login analysieren (Zugriffe, Änderungen)
+- Datenquellen korrelieren
+- Ergebnisse nachvollziehbar dokumentieren
 
-### Wie würdest du einen verdächtigen Login untersuchen?  
-(Testet dein Sicherheitsdenken)  
-- Erwähne Dinge wie Logs, IP-Adressen, ungewöhnliche Aktivitäten und wie du den Benutzer verifizierst.  
+Was passiert, wenn du eine Website in den Browser eingibst?  
+- Der Browser übersetzt die URL in eine IP-Adresse, baut eine sichere Verbindung zum Server auf, lädt die Webinhalte per HTTP und rendert daraus die sichtbare Webseite.
 
-### Wie bleibst du in der Cybersecurity auf dem Laufenden?  
-(Sie testen Neugier und kontinuierliches Lernen)  
-- Erwähne Labs, Blogs, Threat News, Podcasts oder Sicherheitsforschung, der du folgst.  
+Was ist ein DNS-Cache?
+> Der DNS-Cache ist ein Zwischenspeicher im Browser, Betriebssystem oder Router, der bereits aufgelöste Domain → IP-Zuordnungen speichert.
+> Speichert alte Domain-IP-Zuordnungen für schnelleren Zugriff
 
-### Was passiert, wenn du eine Website in den Browser eingibst?  
-(Testet grundlegendes Netzwerkverständnis)  
-- Erkläre DNS, die Verbindung und die Antwort des Servers.  
+HTTP: Daten können mitgelesen/manipuliert werden -> unverschlüsselt
+HTTPS: schützt Vertraulichkeit & Integrität -> verschlüsselt mit TLS
 
-### Was ist der Unterschied zwischen einer Schwachstelle und einer Bedrohung?  
+Der TLS-Handshake baut eine sichere Verbindung zwischen Browser und Server auf.
+Ein Aushandlungsprozess, der eine verschlüsselte und vertrauenswürdige Verbindung zwischen Client und Server aufbaut.
+Ablauf vereinfacht:
+- Browser sagt: „Ich will sicher kommunizieren“
+- Server sendet Zertifikat
+- Browser prüft: Ist Zertifikat gültig? Ist es vertrauenswürdig?
+- Beide einigen sich auf verschlüsselte Schlüssel
+- Ab dann: verschlüsselte Kommunikation
+
+„Warum braucht man ein Zertifikat?“
+> Um die Identität des Servers zu bestätigen (Schutz vor Fake-Seiten)
+
+„Was passiert bei einem ungültigen Zertifikat?“
+> Browser zeigt Warnung, Verbindung gilt als unsicher
+
+„Symmetrisch oder asymmetrisch?“
+Beides:
+- asymmetrisch für sicheren Schlüsselaustausch
+-  symmetrisch für schnelle Datenverschlüsselung danach
+
+Was ist der Unterschied zwischen einer Schwachstelle und einer Bedrohung?
 (Testet grundlegendes Sicherheitswissen)  
 - Eine Schwachstelle ist eine Sicherheitslücke.  
 - Eine Bedrohung ist etwas, das diese Schwachstelle ausnutzen kann.
 
-### „Welche dieser Stärken ist für die IT-Forensik aus Ihrer Sicht am wichtigsten?“
+Welche dieser Stärken ist für die IT-Forensik aus Ihrer Sicht am wichtigsten?
 > „Aus meiner Sicht ist es die Kombination aus strukturierter Analyse und sorgfältiger Dokumentation. Nur wenn beides zusammenkommt, sind Ergebnisse nachvollziehbar und belastbar.“
 
-### Größter Fehler in der IT-Sicherheit?
+Größter Fehler in der IT-Sicherheit?
 > „Zu glauben, dass Tools allein Sicherheit schaffen. Sicherheit ist ein kontinuierlicher Prozess aus Technik, Organisation und Menschen.“
 
-### Arbeiten Sie lieber im Team oder selbstständig?
+
+
+---
+
+
+Wenn Sie möchten, kann ich:  
+- ein Probe-Interview (typische Polizeifragen) mit Ihnen durchspielen oder  
+- Ihre Antworten auf eine konkrete Landespolizeidirektion zuschneiden.
+
+Ich stelle dir diese Fragen live, du antwortest, und ich gebe dir konkretes Feedback wie ein Prüfer.
+
+
+---
+
