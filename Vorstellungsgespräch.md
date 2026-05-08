@@ -237,20 +237,6 @@ Was macht Beweise unverwertbar?
 | Grundprinzipien     | Beweissicherheit       | Originaldaten unverändert lassen, auf Kopien arbeiten, alles zeitgestempelt dokumentieren.         | Hashing (z. B. SHA-256), Protokollierung, klare Prozesse                                  |
 | Gesamtprozess       | Struktur (kompakt)     | Erfassen → Sichern → Dokumentieren → Analysieren → Weitergeben → Verbessern                         | Methodisches Vorgehen                                                                     |
 
----
-
-
-Stärken
-- „Ich gehe Probleme systematisch an und dokumentiere sauber. - Strukturiertes Arbeiten
-- „Ich hinterfrage Zusammenhänge und arbeite hypothesengeleitet.“ - Analytisches Denken
-- „Gerade bei sensiblen Daten arbeite ich sehr präzise.“ - Sorgfalt / Genauigkeit
-- „Ich bin mir bewusst, welche Auswirkungen Fehler haben können.“ - Verantwortungsbewusstsein
-
-Schwächen
-- „Ich neige dazu, **sehr tief in Details** zu gehen, was Zeit kosten kann. Ich arbeite daran, bewusst zu priorisieren und mich stärker am Gesamtziel zu orientieren.“
-- „In neuen Teams bin ich anfangs eher **zurückhaltend**, was sich aber schnell legt, sobald ich mich fachlich einbringen kann.“
-- „Ich habe einen **hohen Anspruch an meine Arbeit**, was manchmal dazu führt, dass ich länger an Lösungen arbeite. Inzwischen setze ich mir bewusst klare Grenzen.“
-
 
 
 ---
